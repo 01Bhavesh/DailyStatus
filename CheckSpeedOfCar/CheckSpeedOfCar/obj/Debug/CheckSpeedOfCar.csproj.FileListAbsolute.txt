@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\bin\Debug\CheckSpeedOfCar.exe.config
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\bin\Debug\CheckSpeedOfCar.exe
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\bin\Debug\CheckSpeedOfCar.pdb
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\obj\Debug\CheckSpeedOfCar.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\obj\Debug\CheckSpeedOfCar.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\obj\Debug\CheckSpeedOfCar.exe
+C:\Users\Nimap\source\repos\CheckSpeedOfCar\CheckSpeedOfCar\obj\Debug\CheckSpeedOfCar.pdb

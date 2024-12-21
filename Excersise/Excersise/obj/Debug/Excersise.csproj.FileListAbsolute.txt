@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Excersise\Excersise\bin\Debug\Excersise.exe.config
+C:\Users\Nimap\source\repos\Excersise\Excersise\bin\Debug\Excersise.exe
+C:\Users\Nimap\source\repos\Excersise\Excersise\bin\Debug\Excersise.pdb
+C:\Users\Nimap\source\repos\Excersise\Excersise\obj\Debug\Excersise.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Excersise\Excersise\obj\Debug\Excersise.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Excersise\Excersise\obj\Debug\Excersise.exe
+C:\Users\Nimap\source\repos\Excersise\Excersise\obj\Debug\Excersise.pdb
