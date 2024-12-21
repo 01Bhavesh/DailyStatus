@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\bin\Debug\Exersise02.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\bin\Debug\Exersise02.exe
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\bin\Debug\Exersise02.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\obj\Debug\Exersise02.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\obj\Debug\Exersise02.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\obj\Debug\Exersise02.exe
+C:\Users\Nimap\source\repos\DailyStatus\Exersise02\Exersise02\obj\Debug\Exersise02.pdb
