@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\Nimap\source\repos\DailyStatus\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

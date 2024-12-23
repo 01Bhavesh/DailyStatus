@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\bin\Debug\ListMethods.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\bin\Debug\ListMethods.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\bin\Debug\ListMethods.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\obj\Debug\ListMethods.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\obj\Debug\ListMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\obj\Debug\ListMethods.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\ListMethods\ListMethods\obj\Debug\ListMethods.pdb

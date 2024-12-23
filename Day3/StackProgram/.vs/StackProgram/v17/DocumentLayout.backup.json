@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\StackProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9580A12-492E-4926-A860-254133789688}|StackProgram\\StackProgram.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\day3\\stackprogram\\stackprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9580A12-492E-4926-A860-254133789688}|StackProgram\\StackProgram.csproj|solutionrelative:stackprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\StackProgram\\StackProgram\\Program.cs",
+              "RelativeDocumentMoniker": "StackProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\StackProgram\\StackProgram\\Program.cs",
+              "RelativeToolTip": "StackProgram\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:37:22.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

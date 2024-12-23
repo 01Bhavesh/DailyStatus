@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\bin\Debug\StackProgram.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\bin\Debug\StackProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\bin\Debug\StackProgram.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\obj\Debug\StackProgram.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\obj\Debug\StackProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\obj\Debug\StackProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\StackProgram\StackProgram\obj\Debug\StackProgram.pdb

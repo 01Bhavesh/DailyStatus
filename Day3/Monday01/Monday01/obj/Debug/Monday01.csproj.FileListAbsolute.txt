@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\bin\Debug\Monday01.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\bin\Debug\Monday01.exe
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\bin\Debug\Monday01.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\obj\Debug\Monday01.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\obj\Debug\Monday01.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\obj\Debug\Monday01.exe
+C:\Users\Nimap\source\repos\DailyStatus\Monday01\Monday01\obj\Debug\Monday01.pdb

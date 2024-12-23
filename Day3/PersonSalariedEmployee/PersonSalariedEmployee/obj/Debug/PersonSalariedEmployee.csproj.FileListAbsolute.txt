@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\bin\Debug\PersonSalariedEmployee.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\bin\Debug\PersonSalariedEmployee.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\bin\Debug\PersonSalariedEmployee.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\obj\Debug\PersonSalariedEmployee.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\obj\Debug\PersonSalariedEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\obj\Debug\PersonSalariedEmployee.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day3\PersonSalariedEmployee\PersonSalariedEmployee\obj\Debug\PersonSalariedEmployee.pdb
