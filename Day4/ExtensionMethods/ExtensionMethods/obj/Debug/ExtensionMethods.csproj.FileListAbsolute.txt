@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

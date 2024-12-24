@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\bin\Debug\DelegatesProgarm.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\bin\Debug\DelegatesProgarm.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\bin\Debug\DelegatesProgarm.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\obj\Debug\DelegatesProgarm.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\obj\Debug\DelegatesProgarm.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\obj\Debug\DelegatesProgarm.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\DelegatesProgarm\DelegatesProgarm\obj\Debug\DelegatesProgarm.pdb

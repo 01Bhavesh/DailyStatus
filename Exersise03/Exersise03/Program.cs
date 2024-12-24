@@ -13,14 +13,14 @@ namespace Exersise03
         {
             //PhotoLikes();             Q1
 
-            //Console.WriteLine("Enter the name: ");      //Q2
-            //string name = Console.ReadLine();
-            //string result = ReverseName(name);
-            //Console.WriteLine(result);
+            Console.WriteLine("Enter the name: ");      //Q2
+            string name = Console.ReadLine();
+            string result = ReverseName(name);
+            Console.WriteLine(result);
 
             //SortEnterNumber();                          //Q3
 
-            UniqueNumber();                               //Q4
+            //UniqueNumber();                               //Q4
 
         }
         public static void PhotoLikes()
@@ -53,10 +53,12 @@ namespace Exersise03
         public static string ReverseName(string name)
         {
             string result = "";
+            char[] chars = new char[name.Length];
             for (int i = name.Length - 1; i >= 0; i--)
             {
-                result = result + name[i];
+                chars[name.Length - 1 - i] = name[i];
             }
+            result = new string(chars);
             return result;
         }
 

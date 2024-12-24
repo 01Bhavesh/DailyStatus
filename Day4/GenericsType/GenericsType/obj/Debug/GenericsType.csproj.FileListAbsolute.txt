@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\bin\Debug\GenericsType.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\bin\Debug\GenericsType.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\bin\Debug\GenericsType.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\obj\Debug\GenericsType.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\obj\Debug\GenericsType.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\obj\Debug\GenericsType.exe
+C:\Users\Nimap\source\repos\DailyStatus\Day4\GenericsType\GenericsType\obj\Debug\GenericsType.pdb
