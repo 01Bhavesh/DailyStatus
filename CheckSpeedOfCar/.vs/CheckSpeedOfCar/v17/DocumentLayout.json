@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\CheckSpeedOfCar\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|c:\\users\\nimap\\source\\repos\\checkspeedofcar\\checkspeedofcar\\carspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\checkspeedofcar\\checkspeedofcar\\carspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|solutionrelative:checkspeedofcar\\carspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|c:\\users\\nimap\\source\\repos\\checkspeedofcar\\checkspeedofcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\checkspeedofcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7491BD98-B1EE-4FBB-9F40-0AFA1FDC632D}|CheckSpeedOfCar\\CheckSpeedOfCar.csproj|solutionrelative:checkspeedofcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CarSpeed.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\CheckSpeedOfCar\\CheckSpeedOfCar\\CarSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\CheckSpeedOfCar\\CarSpeed.cs",
               "RelativeDocumentMoniker": "CheckSpeedOfCar\\CarSpeed.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\CheckSpeedOfCar\\CheckSpeedOfCar\\CarSpeed.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\CheckSpeedOfCar\\CarSpeed.cs",
               "RelativeToolTip": "CheckSpeedOfCar\\CarSpeed.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T05:10:38.126Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\CheckSpeedOfCar\\CheckSpeedOfCar\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\CheckSpeedOfCar\\Program.cs",
               "RelativeDocumentMoniker": "CheckSpeedOfCar\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\CheckSpeedOfCar\\CheckSpeedOfCar\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CheckSpeedOfCar\\CheckSpeedOfCar\\Program.cs",
               "RelativeToolTip": "CheckSpeedOfCar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T05:04:25.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T05:04:25.769Z"
             }
           ]
         }

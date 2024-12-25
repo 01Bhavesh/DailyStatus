@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\bin\Debug\Ienumerable&Ienumerator.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\bin\Debug\Ienumerable&Ienumerator.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\bin\Debug\Ienumerable&Ienumerator.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\obj\Debug\Ienumerable&Ienumerator.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\obj\Debug\Ienumerable&Ienumerator.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\obj\Debug\Ienumerable&Ienumerator.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Ienumerable&Ienumerator\Ienumerable&Ienumerator\obj\Debug\Ienumerable&Ienumerator.pdb

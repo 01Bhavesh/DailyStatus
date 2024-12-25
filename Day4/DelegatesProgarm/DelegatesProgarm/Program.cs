@@ -31,7 +31,8 @@ namespace DelegatesProgarm
         //}
         public static void Recived1(int i)      //this are same methods like Recived1 , Recived2 and Recived3
         {
-            Console.WriteLine("rec1 : " + i);
+            if(i < 0)
+                Console.WriteLine("rec1 : " + i);
         }
         public static void Recived2(int i)
         {
@@ -60,7 +61,7 @@ namespace DelegatesProgarm
         //}
         public void Factors()
         {
-            for (int i = 0; i <= 10; i++)
+            for (int i = -2; i <= 5; i++)
             {
                 Thread.Sleep(300);
                 sen(i);

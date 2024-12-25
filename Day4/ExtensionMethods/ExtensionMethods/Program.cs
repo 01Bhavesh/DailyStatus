@@ -14,6 +14,8 @@ namespace ExtensionMethods
             var str = post.Shorten(5);
             Console.WriteLine(str);
 
+            List<int> lst = new List<int>();
+
         }
     }
     

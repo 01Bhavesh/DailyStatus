@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WhileLoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39CC91A-7C82-4133-9093-4B9AFD99252A}|WhileLoop\\WhileLoop.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\whileloop\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39CC91A-7C82-4133-9093-4B9AFD99252A}|WhileLoop\\WhileLoop.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39CC91A-7C82-4133-9093-4B9AFD99252A}|WhileLoop\\Excersise2.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\whileloop\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39CC91A-7C82-4133-9093-4B9AFD99252A}|WhileLoop\\Excersise2.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "WhileLoop\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WhileLoop\\WhileLoop\\Program.cs",
               "RelativeToolTip": "WhileLoop\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T06:32:41.382Z",
               "EditorCaption": ""

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D2E5E448-0568-4DB9-87FC-7C7F681428C7}|ListMethods\\ListMethods.csproj|solutionrelative:listmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2E5E448-0568-4DB9-87FC-7C7F681428C7}|ListMethods\\ListMethods.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\day3\\listmethods\\listmethods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2E5E448-0568-4DB9-87FC-7C7F681428C7}|ListMethods\\ListMethods.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\ListMethods\\listmethods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2E5E448-0568-4DB9-87FC-7C7F681428C7}|ListMethods\\ListMethods.csproj|solutionrelative:listmethods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ListMethods\\Person.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\ListMethods\\ListMethods\\Person.cs",
               "RelativeToolTip": "ListMethods\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T10:55:32.489Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "ListMethods\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\ListMethods\\ListMethods\\Program.cs",
               "RelativeToolTip": "ListMethods\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T10:48:18.359Z",
               "EditorCaption": ""

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday01\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday01\\monday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\day3\\monday01\\monday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|solutionrelative:monday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday01\\monday01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\monday01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6204D15B-2B1C-4E40-BC9A-34C129278708}|Monday01\\Monday01.csproj|solutionrelative:monday01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday01\\Monday01\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\Monday01\\Person.cs",
               "RelativeDocumentMoniker": "Monday01\\Person.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday01\\Monday01\\Person.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\Monday01\\Person.cs",
               "RelativeToolTip": "Monday01\\Person.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T05:30:55.291Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday01\\Monday01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\Monday01\\Program.cs",
               "RelativeDocumentMoniker": "Monday01\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday01\\Monday01\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Day3\\Monday01\\Monday01\\Program.cs",
               "RelativeToolTip": "Monday01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T05:29:40.778Z",
               "EditorCaption": ""

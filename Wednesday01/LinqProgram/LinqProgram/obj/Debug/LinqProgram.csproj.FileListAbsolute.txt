@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\bin\Debug\LinqProgram.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\bin\Debug\LinqProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\bin\Debug\LinqProgram.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\obj\Debug\LinqProgram.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\obj\Debug\LinqProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\obj\Debug\LinqProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\LinqProgram\LinqProgram\obj\Debug\LinqProgram.pdb

@@ -25,6 +25,8 @@ namespace ListMethods
             lst.Add(p2);
             lst.Add(p3);
             lst.Add(p4);
+
+            //lst.FirstOrDefault();
            
 
             //Console.WriteLine(p4.ToString());

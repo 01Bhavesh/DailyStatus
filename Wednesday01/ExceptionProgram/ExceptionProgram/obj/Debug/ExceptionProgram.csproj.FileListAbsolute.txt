@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.pdb

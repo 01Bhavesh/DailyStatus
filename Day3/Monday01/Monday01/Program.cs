@@ -12,7 +12,8 @@ namespace Monday01
         {
             Person p1 = new Person(1,"Rohit","Sharma");    //Object
             Person p2 = new Person(2, "Virat", "Kohli");
-
+            Console.WriteLine(p1.FirstName);
+            //Console.WriteLine(p1.Id);                 //private variable not accepted
             p1 = new Person("Cricketer");       //use of Constructor overloading
             p2 = new Person("Cricketer");
 

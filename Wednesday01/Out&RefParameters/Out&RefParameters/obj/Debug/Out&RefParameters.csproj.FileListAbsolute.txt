@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\bin\Debug\Out&RefParameters.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\bin\Debug\Out&RefParameters.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\bin\Debug\Out&RefParameters.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\obj\Debug\Out&RefParameters.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\obj\Debug\Out&RefParameters.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\obj\Debug\Out&RefParameters.exe
+C:\Users\Nimap\source\repos\DailyStatus\Wednesday01\Out&RefParameters\Out&RefParameters\obj\Debug\Out&RefParameters.pdb
