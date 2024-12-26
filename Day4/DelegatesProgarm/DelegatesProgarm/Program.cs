@@ -50,7 +50,8 @@ namespace DelegatesProgarm
         //public delegate void CallFun(int i);
 
         public delegate void Sender(int i);  //crerate delegate
-        public Sender sen = null;            //assign null value
+        //public Sender sen = null;            //assign null value
+        public event Sender sen = null;         // normal delegate => converted into event
 
         //public void Factors(CallFun obj)
         //{

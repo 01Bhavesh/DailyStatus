@@ -22,6 +22,7 @@ namespace LinqProgram
             }
 
             var elements = books.Where(p => p.Price > 500).Select(p=>p.Title);
+            //Select() method from LINQ return IEnumerable<T>  
             //Console.WriteLine(elements);  //it will give referance
             foreach (var book in elements)
             {
