@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\obj\Debug\EmployeeFiles.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\obj\Debug\EmployeeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\bin\Debug\EmployeeFiles.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\bin\Debug\EmployeeFiles.exe
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\bin\Debug\EmployeeFiles.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\obj\Debug\EmployeeFiles.exe
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\EmployeeFiles\EmployeeFiles\obj\Debug\EmployeeFiles.pdb

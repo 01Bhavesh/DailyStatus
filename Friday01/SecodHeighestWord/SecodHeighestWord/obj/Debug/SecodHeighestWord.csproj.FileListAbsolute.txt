@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\bin\Debug\SecodHeighestWord.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\bin\Debug\SecodHeighestWord.exe
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\bin\Debug\SecodHeighestWord.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\obj\Debug\SecodHeighestWord.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\obj\Debug\SecodHeighestWord.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\obj\Debug\SecodHeighestWord.exe
+C:\Users\Nimap\source\repos\DailyStatus\Friday01\SecodHeighestWord\SecodHeighestWord\obj\Debug\SecodHeighestWord.pdb
