@@ -1,0 +1,17 @@
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.InitailData.resources
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.AddManyToManyRelationship.resources
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.MakeChangesInVideoClass.resources
+C:\Users\Nimap\source\repos\DailyStatus\Saturday01\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.AddEnumInVedioClass.resources

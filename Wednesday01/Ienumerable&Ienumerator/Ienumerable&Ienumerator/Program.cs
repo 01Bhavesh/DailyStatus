@@ -24,13 +24,18 @@ namespace Ienumerable_Ienumerator
                 new Person(6,"Kuldeep"),
                 new Person(7,"Jaiswal")
             };
-
+            Person p = new Person(3,"Hardik");
+            //Console.WriteLine(lst.Contains(p));
+            //Console.WriteLine();
+           
             IEnumerable<Person> ienumer = (IEnumerable<Person>)lst;//Internally use IEnumerator and use
                                                                    //for Iterating collection of object
             //Ienumerable_1_4(ienumer);
 
             IEnumerator<Person> ienumerator = lst.GetEnumerator();
             Ienumerator_1_4(ienumerator);
+
+           
         }
 
         public static void Ienumerable_1_4(IEnumerable<Person> lst)     
