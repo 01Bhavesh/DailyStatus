@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\iservice\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\iservice\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\server\\dbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\server\\dbcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\iservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\iservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\lazyeagerloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\lazyeagerloading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\lazyeagerloading\\lazyeagerloading\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D95E082-D4A3-406E-880D-929791EDDEA5}|LazyEagerLoading\\LazyEagerLoading.csproj|solutionrelative:lazyeagerloading\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:54:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:48:18.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\IService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\IService\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\IService\\EmployeeService.cs",
+              "RelativeToolTip": "LazyEagerLoading\\IService\\EmployeeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:33:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:43:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\IService\\CompanyService.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\IService\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\IService\\CompanyService.cs",
+              "RelativeToolTip": "LazyEagerLoading\\IService\\CompanyService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:20:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Program.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Program.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:35:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Server\\DbCompany.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Server\\DbCompany.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Server\\DbCompany.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Server\\DbCompany.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:32:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LazyEagerLoading",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\LazyEagerLoading.csproj",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\LazyEagerLoading.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\LazyEagerLoading.csproj",
+              "RelativeToolTip": "LazyEagerLoading\\LazyEagerLoading.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T06:31:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Models\\Company.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:23:03.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Models\\Employee.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:26:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\appsettings.json",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\appsettings.json",
+              "RelativeToolTip": "LazyEagerLoading\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:35:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241230074221_InitialData.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs",
+              "RelativeDocumentMoniker": "LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\LazyEagerLoading\\LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs",
+              "RelativeToolTip": "LazyEagerLoading\\Migrations\\20241230074221_InitialData.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:42:21.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
