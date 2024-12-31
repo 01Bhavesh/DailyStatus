@@ -18,7 +18,8 @@ namespace EntityFramworkCode.ServiceImplementation
                 throw new Exception("This category name is already present");
             }
             await _dbProduct.categories.AddAsync(category);
-            _dbProduct.categories.Find(category).isActive = true;
+            Category? cat = await _dbProduct.categories.FindAsync(category.Id);
+            cat.isActive = true;
             _dbProduct.SaveChanges();
         }
 
@@ -26,23 +27,23 @@ namespace EntityFramworkCode.ServiceImplementation
         {
             Category p = (Category)_dbProduct.categories.Where(x => x.Id == Id);
             p.isActive = false;
-            _dbProduct.categories.Remove(p);
-
         }
 
 
-        public async Task<List<Category>> GetCategorie(int page, int pageSize)
+        public async Task<(List<Category> categories, int totalcount)> GetCategorie(int page, int pageSize)  //Lazy Loading
         {
-            return await _dbProduct.categories
+            int totalcount =  _dbProduct.categories.Count();
+            return (await _dbProduct
+                .categories.Where(c => c.isActive == true)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
-                .ToListAsync();
+                .ToListAsync() , totalcount);
         }
 
-        public async Task<Category > GetCategoryById(int Id)
+        public async Task<Category> GetCategoryById(int Id)
         {
-            Category p = await _dbProduct.categories.FindAsync(Id);
-            if (p.Id == null)
+            Category? p = await _dbProduct.categories.FindAsync(Id);
+            if (p == null)
             {
                 throw new Exception("product is not present");
             }

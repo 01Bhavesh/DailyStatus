@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\serviceimplementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\serviceimplementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\serviceimplementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\serviceimplementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\serviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\serviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\serviceimplementation\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\serviceimplementation\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\server\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +43,8 @@
       "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\migrations\\20241230110025_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\migrations\\20241230110025_initialproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +54,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241230110025_initialproduct.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
-              "RelativeDocumentMoniker": "EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
-              "RelativeToolTip": "EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T11:00:26.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Server\\DbProduct.cs",
-              "RelativeDocumentMoniker": "EntityFramworkCode\\Server\\DbProduct.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Server\\DbProduct.cs",
-              "RelativeToolTip": "EntityFramworkCode\\Server\\DbProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:46:04.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EntityFramworkCode",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\EntityFramworkCode.csproj",
-              "RelativeDocumentMoniker": "EntityFramworkCode\\EntityFramworkCode.csproj",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\EntityFramworkCode.csproj",
-              "RelativeToolTip": "EntityFramworkCode\\EntityFramworkCode.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T10:45:18.922Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
+              "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:53:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\IProductService.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\IProductService.cs",
+              "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:51:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ICategoryService.cs",
+              "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:04:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\CategoryService.cs",
+              "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:03:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241230110025_initialproduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
+              "RelativeToolTip": "EntityFramworkCode\\Migrations\\20241230110025_initialproduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:00:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Server\\DbProduct.cs",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\Server\\DbProduct.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Server\\DbProduct.cs",
+              "RelativeToolTip": "EntityFramworkCode\\Server\\DbProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:46:04.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityFramworkCode.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\EntityFramworkCode.csproj",
+              "RelativeDocumentMoniker": "EntityFramworkCode\\EntityFramworkCode.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\EntityFramworkCode.csproj",
+              "RelativeToolTip": "EntityFramworkCode\\EntityFramworkCode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T10:45:18.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Program.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Program.cs",
@@ -93,12 +158,11 @@
               "RelativeToolTip": "EntityFramworkCode\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:42:05.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:42:05.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\appsettings.json",
               "RelativeDocumentMoniker": "EntityFramworkCode\\appsettings.json",
@@ -106,21 +170,19 @@
               "RelativeToolTip": "EntityFramworkCode\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-30T10:39:38.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:39:38.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Category.cs",
               "RelativeToolTip": "EntityFramworkCode\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:33:36.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:33:36.372Z"
             },
             {
               "$type": "Document",
@@ -130,10 +192,9 @@
               "RelativeDocumentMoniker": "EntityFramworkCode\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Product.cs",
               "RelativeToolTip": "EntityFramworkCode\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:31:17.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:31:17.245Z"
             }
           ]
         }

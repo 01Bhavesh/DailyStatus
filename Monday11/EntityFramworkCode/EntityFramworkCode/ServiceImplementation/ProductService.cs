@@ -11,32 +11,46 @@ namespace EntityFramworkCode.ServiceImplementation
         {
             _dbProduct = dbProduct;
         }
-        public void AddProduct(Product product)
+        public async void AddProduct(Product product)
         {
-            throw new NotImplementedException();
+            if (_dbProduct.products.Any(p => p.productName == product.productName))
+            {
+                throw new Exception("Duplicate product not allowed");
+            }
+            _dbProduct.products.Add(product);
+            Product? p = await _dbProduct.products.FindAsync(product.Id);
+            p.isActive = true;
+
         }
 
-        public void DeleteProduct(int id)
+        public async void DeleteProduct(int id)
         {
-            throw new NotImplementedException();
+            Product? p = await _dbProduct.products.FindAsync(id);
+            p.isActive = false;
         }
 
-        public Product GetProductById(int id)
+        public async Task<Product> GetProductById(int id)
         {
-            throw new NotImplementedException();
+            Product? p = await _dbProduct.products.FindAsync(id);
+            if (p == null)
+            {
+                throw new Exception("Product is empty..");
+            }
+            return p;
         }
 
-        public async Task<List<Product>> GetProducts(int page, int pageSize)
+        public async Task<List<Product>> GetProducts(int page, int pageSize) //Eager Loading
         {
             return await _dbProduct.products
-                .Include(p => p.category)
+                .Include(p => p.category.isActive == true)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize).ToListAsync();
         }
 
         public void UpdateProduct(Product product)
         {
-            throw new NotImplementedException();
+            _dbProduct.products.Update(product);
+            _dbProduct.SaveChanges();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\bin\Debug\Anonymous_Lambda.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\bin\Debug\Anonymous_Lambda.exe
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\bin\Debug\Anonymous_Lambda.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\obj\Debug\Anonymous_Lambda.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\obj\Debug\Anonymous_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\obj\Debug\Anonymous_Lambda.exe
+C:\Users\Nimap\source\repos\DailyStatus\Tuesday11\Anonymous_Lambda\Anonymous_Lambda\obj\Debug\Anonymous_Lambda.pdb
