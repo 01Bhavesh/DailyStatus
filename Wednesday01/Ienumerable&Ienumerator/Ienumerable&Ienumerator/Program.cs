@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,21 +28,36 @@ namespace Ienumerable_Ienumerator
             Person p = new Person(3,"Hardik");
             //Console.WriteLine(lst.Contains(p));
             //Console.WriteLine();
-           
+
+            //foreach (var l in lst)
+            //{
+            //    l.Name = "bhavesh";
+            //}
+            //foreach (var l in lst)
+            //{
+            //    Console.WriteLine(l.Id+" "+l.Name);
+            //}
             IEnumerable<Person> ienumer = (IEnumerable<Person>)lst;//Internally use IEnumerator and use
                                                                    //for Iterating collection of object
-            //Ienumerable_1_4(ienumer);
+                                                                   //Ienumerable_1_4(ienumer);
 
+            //Ienumerable_1_4(ienumer);
+            //foreach (var l in lst)
+            //{
+            //    Console.WriteLine(l.Id + " " + l.Name);
+            //}
             IEnumerator<Person> ienumerator = lst.GetEnumerator();
             Ienumerator_1_4(ienumerator);
 
-           
+
         }
 
         public static void Ienumerable_1_4(IEnumerable<Person> lst)     
         {
             foreach (Person per in lst)
             {
+                //per.Name = "vinay";   // checking
+                //Console.WriteLine("hollo");
                 if (per.Id > 5)
                 {
                     Ienumrable_5_7(lst);

@@ -23,20 +23,19 @@ namespace EntityFramworkCode.Migrations
 
             modelBuilder.Entity("EntityFramworkCode.Models.Category", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("CategoryId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
                     b.Property<string>("CategoryName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("isActive")
+                    b.Property<bool?>("isActive")
                         .HasColumnType("bit");
 
-                    b.HasKey("Id");
+                    b.HasKey("CategoryId");
 
                     b.ToTable("categories");
                 });
@@ -49,14 +48,13 @@ namespace EntityFramworkCode.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("isActive")
+                    b.Property<bool?>("isActive")
                         .HasColumnType("bit");
 
                     b.Property<string>("productName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -70,9 +68,7 @@ namespace EntityFramworkCode.Migrations
                 {
                     b.HasOne("EntityFramworkCode.Models.Category", "category")
                         .WithMany("products")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryId");
 
                     b.Navigation("category");
                 });

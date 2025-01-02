@@ -1,0 +1,75 @@
+﻿@model IEnumerable<EntityFramworkCode.Models.Product>
+
+@{
+    ViewData["Title"] = "GetProduct";
+}
+
+<h1>GetProduct</h1>
+
+<p>
+    <a asp-action="AddProduct">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isActive)
+            </td>
+            <td>
+                <a asp-action="UpdateProduct" asp-route-id="@item.Id">Edit</a> |
+
+                <a asp-action="DeleteProduct" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+<div class="pagination">
+    @if (ViewBag.currentpage > 1)
+    {
+        <a asp-action="GetProduct" asp-route-page="@(ViewBag.currentpage - 1) ">Previous</a>
+    }
+
+    @for (int i = 1; i <= ViewBag.totalpages; i++)
+    {
+        if (i == ViewBag.currentpage)
+        {
+            <strong>@i</strong>
+        }
+        else
+        {
+            <a asp-action="GetProduct" asp-route-page="@i">@i</a>
+        }
+    }
+
+    @if (ViewBag.currentpage < ViewBag.totalpages)
+    {
+        <a asp-action="GetProduct" asp-route-page="@(ViewBag.currentpage + 1) ">Next</a>
+    }
+</div>

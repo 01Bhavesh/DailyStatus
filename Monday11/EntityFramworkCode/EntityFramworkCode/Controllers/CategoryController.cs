@@ -6,8 +6,8 @@ namespace EntityFramworkCode.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly CategoryService _categoryService;
-        public CategoryController(CategoryService categoryService)
+        private readonly ICategoryService _categoryService;
+        public CategoryController(ICategoryService categoryService)
         {
             _categoryService = categoryService;
         }
@@ -15,7 +15,7 @@ namespace EntityFramworkCode.Controllers
         {
             var (category, totalcount) = await _categoryService.GetCategorie(page, pagesize);
             ViewBag.currentpage = page;
-            ViewBag.totalpage = (int)Math.Ceiling((double)totalcount / pagesize);
+            ViewBag.totalpages = (int)Math.Ceiling((double)totalcount / pagesize);
             return View(category);
         }
 
@@ -40,17 +40,16 @@ namespace EntityFramworkCode.Controllers
             }
         }
         [HttpGet]
-        public IActionResult UpdateCategory(int id)
+        public async Task<IActionResult> UpdateCategory(int id)
         {
-            var category = _categoryService.GetCategoryById(id);
+            var category = await _categoryService.GetCategoryById(id);
             if (category == null)
             {
                 return NotFound();
             }
-
             return View(category);
         }
-        [HttpPost]
+        [HttpPut]
         public IActionResult UpdateCategory(Category category)
         {
             _categoryService.UpdateCategory(category);

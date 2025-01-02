@@ -11,22 +11,28 @@ namespace EntityFramworkCode.ServiceImplementation
         {
             _dbProduct = dbProduct;
         }
-        public async void AddCategory(Category category)
+        public void AddCategory(Category category)
         {
             if (_dbProduct.categories.Any(p => p.CategoryName == category.CategoryName))
             {
                 throw new Exception("This category name is already present");
             }
-            await _dbProduct.categories.AddAsync(category);
-            Category? cat = await _dbProduct.categories.FindAsync(category.Id);
-            cat.isActive = true;
+            category.isActive = true;
+            _dbProduct.categories.Add(category);
             _dbProduct.SaveChanges();
         }
 
         public void DeleteCategoryById(int Id)
         {
-            Category p = (Category)_dbProduct.categories.Where(x => x.Id == Id);
+            var p = _dbProduct.categories.Find(Id);
             p.isActive = false;
+            var prod = _dbProduct.products.Where( p => p.CategoryId == Id);
+            foreach (var pr in prod) //check 
+            {
+                pr.isActive = false;
+            }
+            
+            _dbProduct.SaveChanges();
         }
 
 
@@ -34,15 +40,19 @@ namespace EntityFramworkCode.ServiceImplementation
         {
             int totalcount =  _dbProduct.categories.Count();
             return (await _dbProduct
-                .categories.Where(c => c.isActive == true)
+                .categories
+                //.Where(c => c.isActive == true)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
+                .OrderBy(c => c.CategoryId)
                 .ToListAsync() , totalcount);
         }
 
         public async Task<Category> GetCategoryById(int Id)
         {
-            Category? p = await _dbProduct.categories.FindAsync(Id);
+            var p = await _dbProduct
+                .categories
+                .FirstOrDefaultAsync(c => c.CategoryId == Id);
             if (p == null)
             {
                 throw new Exception("product is not present");
@@ -52,6 +62,23 @@ namespace EntityFramworkCode.ServiceImplementation
 
         public void UpdateCategory(Category category)
         {
+            if (category.isActive == true)
+            {
+                var prop = _dbProduct.products.Where(p => p.CategoryId == category.CategoryId);
+                foreach (var p in prop)
+                {
+                    p.isActive = true;
+                }
+            }
+            if (category.isActive == false)
+            {
+                var prop = _dbProduct.products.Where(p => p.CategoryId == category.CategoryId);
+                foreach (var p in prop)
+                {
+                    p.isActive = false;
+                }
+            }
+
             _dbProduct.categories.Update(category);
             _dbProduct.SaveChanges();
         }

@@ -17,21 +17,24 @@ namespace EntityFramworkCode.ServiceImplementation
             {
                 throw new Exception("Duplicate product not allowed");
             }
+            product.isActive = true;
             _dbProduct.products.Add(product);
-            Product? p = await _dbProduct.products.FindAsync(product.Id);
-            p.isActive = true;
+            _dbProduct.SaveChanges();
 
         }
 
         public async void DeleteProduct(int id)
         {
-            Product? p = await _dbProduct.products.FindAsync(id);
+            var p = await _dbProduct.products.FirstOrDefaultAsync(p => p.Id == id);
             p.isActive = false;
+            _dbProduct.SaveChanges();
         }
 
         public async Task<Product> GetProductById(int id)
         {
-            Product? p = await _dbProduct.products.FindAsync(id);
+            var p = await _dbProduct.products
+                .Include(p => p.category)
+                .FirstOrDefaultAsync(p => p.Id == id);
             if (p == null)
             {
                 throw new Exception("Product is empty..");
@@ -39,12 +42,16 @@ namespace EntityFramworkCode.ServiceImplementation
             return p;
         }
 
-        public async Task<List<Product>> GetProducts(int page, int pageSize) //Eager Loading
+        public async Task<(List<Product> , int totalcount)> GetProducts(int page, int pageSize) //Eager Loading
         {
-            return await _dbProduct.products
-                .Include(p => p.category.isActive == true)
+            int totalcount = _dbProduct.products.Count();
+            return (await _dbProduct.products           
+                //.Where(p => p.isActive == true)
+                .Include(p => p.category)
                 .Skip((page - 1) * pageSize)
-                .Take(pageSize).ToListAsync();
+                .Take(pageSize).ToListAsync() , totalcount);// while using include method first it will
+                                                            // include all data then check condition on
+                                                            // product, if product isactive or not.
         }
 
         public void UpdateProduct(Product product)
