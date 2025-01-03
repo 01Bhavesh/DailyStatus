@@ -3037,6 +3037,88 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap_lumen.7ua1r7w0q9.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap_lumen.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 13:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ua1r7w0q9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap_lumen.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap_lumen.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap_lumen.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 13:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],

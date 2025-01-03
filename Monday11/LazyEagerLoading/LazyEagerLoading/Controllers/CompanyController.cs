@@ -11,11 +11,13 @@ namespace LazyEagerLoading.Controllers
         {
             companyDb = _companyDb;
         }
+        //[Route("Company/GetCompany/")]
         public IActionResult GetCompany()
         {
             List<Company> lst = companyDb.GetCompany();
             return View(lst);
         }
+        //[Route("[controller]/[action]")]
         public IActionResult GetCompanyById(int id)
         {
             Company company = companyDb.GetCompanyById(id);

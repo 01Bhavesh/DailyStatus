@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bvKQTdtAANrMgKQ/d4+9AyuvvkKyv5mGkeg2qZsNZ8w=",
+  "Hash": "fQx12KNGAIdbliA1ucLr/zJb/KsiDZPMUb8BxSEkq5U=",
   "Source": "EntityFramworkCode",
   "BasePath": "_content/EntityFramworkCode",
   "Mode": "Default",
@@ -288,6 +288,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css",
+      "SourceId": "EntityFramworkCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\",
+      "BasePath": "_content/EntityFramworkCode",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap_lumen#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ua1r7w0q9",
+      "Integrity": "4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css"
     },
     {
       "Identity": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2383,6 +2404,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap_lumen.7ua1r7w0q9.css",
+      "AssetFile": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 13:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ua1r7w0q9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap_lumen.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap_lumen.css",
+      "AssetFile": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 13:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8="
         }
       ]
     },

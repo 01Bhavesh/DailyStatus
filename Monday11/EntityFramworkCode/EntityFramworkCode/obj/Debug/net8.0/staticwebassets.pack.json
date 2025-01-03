@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_lumen.css"
+    },
+    {
       "Id": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },

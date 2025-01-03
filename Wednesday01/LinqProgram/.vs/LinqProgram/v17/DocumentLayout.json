@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|solutionrelative:linqprogram\\nullableprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\linqprogram\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|solutionrelative:linqprogram\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\linqprogram\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|solutionrelative:linqprogram\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\linqprogram\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD339A7-935F-4E1C-90F2-60A53828A4A9}|LinqProgram\\LinqProgram.csproj|solutionrelative:linqprogram\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,26 +47,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BookRepo.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\LinqProgram\\BookRepo.cs",
               "RelativeDocumentMoniker": "LinqProgram\\BookRepo.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\LinqProgram\\BookRepo.cs",
               "RelativeToolTip": "LinqProgram\\BookRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T04:51:22.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\LinqProgram\\Book.cs",
               "RelativeDocumentMoniker": "LinqProgram\\Book.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\LinqProgram\\Book.cs",
               "RelativeToolTip": "LinqProgram\\Book.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T04:44:14.098Z",
               "EditorCaption": ""
@@ -75,7 +79,7 @@
               "RelativeDocumentMoniker": "LinqProgram\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\LinqProgram\\LinqProgram\\Program.cs",
               "RelativeToolTip": "LinqProgram\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T04:43:38.718Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LazyEagerLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8960c36ce944a93ddbcebb09318e48b2570974d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a51a01263472d838a7a7539dc5d1ae82b6a9292")]
 [assembly: System.Reflection.AssemblyProductAttribute("LazyEagerLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LazyEagerLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

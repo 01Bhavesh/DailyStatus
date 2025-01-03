@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0AAFD30F-E908-48D9-831D-65E9925EF984}|Async_Await\\Async_Await.csproj|solutionrelative:async_await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AAFD30F-E908-48D9-831D-65E9925EF984}|Async_Await\\Async_Await.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\thursday01\\async_await\\async_await\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0AAFD30F-E908-48D9-831D-65E9925EF984}|Async_Await\\Async_Await.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Thursday01\\Async_Await\\async_await\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0AAFD30F-E908-48D9-831D-65E9925EF984}|Async_Await\\Async_Await.csproj|solutionrelative:async_await\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Async_Await\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-26T12:36:58.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T12:36:58.011Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Async_Await\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Thursday01\\Async_Await\\Async_Await\\Program.cs",
               "RelativeToolTip": "Async_Await\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T08:44:37.877Z",
               "EditorCaption": ""
