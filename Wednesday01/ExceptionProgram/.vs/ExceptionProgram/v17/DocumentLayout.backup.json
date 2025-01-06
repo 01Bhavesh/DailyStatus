@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\exceptionprogram\\divisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\divisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\wednesday01\\exceptionprogram\\exceptionprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\wednesday01\\exceptionprogram\\exceptionprogram\\divisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\divisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\wednesday01\\exceptionprogram\\exceptionprogram\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\wednesday01\\exceptionprogram\\exceptionprogram\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\exceptionprogram\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\exceptionprogram\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA5371-9E35-4A33-A0A8-E159E781B410}|ExceptionProgram\\ExceptionProgram.csproj|solutionrelative:exceptionprogram\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,21 +29,25 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Person.cs",
               "RelativeDocumentMoniker": "ExceptionProgram\\Person.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Person.cs",
               "RelativeToolTip": "ExceptionProgram\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:00:36.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExceptionClass.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\ExceptionClass.cs",
               "RelativeDocumentMoniker": "ExceptionProgram\\ExceptionClass.cs",
@@ -56,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Divisible.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Divisible.cs",
               "RelativeDocumentMoniker": "ExceptionProgram\\Divisible.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Divisible.cs",
               "RelativeToolTip": "ExceptionProgram\\Divisible.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAewCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T06:47:53.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionProgram\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\ExceptionProgram\\ExceptionProgram\\Program.cs",
               "RelativeToolTip": "ExceptionProgram\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T06:45:29.604Z",
               "EditorCaption": ""

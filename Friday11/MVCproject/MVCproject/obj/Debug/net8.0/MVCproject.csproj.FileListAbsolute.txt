@@ -171,3 +171,9 @@ C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\obj\Debug
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.pdb
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\obj\Debug\net8.0\MVCproject.genruntimeconfig.cache
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\obj\Debug\net8.0\ref\MVCproject.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\Project.Dataaccess.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\project.Models.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\Project.Utility.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\Project.Dataaccess.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\project.Models.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\MVCproject\bin\Debug\net8.0\Project.Utility.pdb

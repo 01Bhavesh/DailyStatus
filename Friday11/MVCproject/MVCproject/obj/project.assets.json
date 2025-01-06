@@ -1608,6 +1608,42 @@
             "rid": "win"
           }
         }
+      },
+      "Project.Dataaccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+          "Project.Utility": "1.0.0",
+          "project.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Project.Dataaccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.Dataaccess.dll": {}
+        }
+      },
+      "project.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/project.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/project.Models.dll": {}
+        }
+      },
+      "Project.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Project.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.Utility.dll": {}
+        }
       }
     }
   },
@@ -4724,13 +4760,29 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Project.Dataaccess/1.0.0": {
+      "type": "project",
+      "path": "../Project.Dataaccess/Project.Dataaccess.csproj",
+      "msbuildProject": "../Project.Dataaccess/Project.Dataaccess.csproj"
+    },
+    "project.Models/1.0.0": {
+      "type": "project",
+      "path": "../project.Models/project.Models.csproj",
+      "msbuildProject": "../project.Models/project.Models.csproj"
+    },
+    "Project.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Project.Utility/Project.Utility.csproj",
+      "msbuildProject": "../Project.Utility/Project.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
+      "Project.Dataaccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4765,7 +4817,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Project.Dataaccess.csproj": {
+              "projectPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Project.Dataaccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

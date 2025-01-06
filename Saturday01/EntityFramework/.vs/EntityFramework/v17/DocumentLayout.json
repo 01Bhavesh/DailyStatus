@@ -7,27 +7,27 @@
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\migrations\\202412280936439_addenuminvedioclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\migrations\\202412280936439_addenuminvedioclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\202412280936439_addenuminvedioclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\migrations\\202412280913433_makechangesinvideoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\migrations\\202412280913433_makechangesinvideoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\202412280913433_makechangesinvideoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\migrations\\202412280901415_addmanytomanyrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\migrations\\202412280901415_addmanytomanyrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\202412280901415_addmanytomanyrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\saturday01\\entityframework\\entityframework\\migrations\\202412280729355_initaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Saturday01\\EntityFramework\\entityframework\\migrations\\202412280729355_initaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E9934E-FF7C-4624-B4C3-D07E08566BF1}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\202412280729355_initaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "EntityFramework\\Migrations\\202412280936439_AddEnumInVedioClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:36:50.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:36:50.601Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "EntityFramework\\Migrations\\202412280913433_MakeChangesInVideoClass.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:13:49.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:13:49.975Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "EntityFramework\\Migrations\\202412280901415_AddManyToManyRelationship.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:01:48.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:01:48.313Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "EntityFramework\\Migrations\\202412280729355_InitailData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:29:50.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T07:29:50.704Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "EntityFramework\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:28:16.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T07:28:16.541Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "EntityFramework\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T06:59:41.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T06:59:41.886Z"
             }
           ]
         }

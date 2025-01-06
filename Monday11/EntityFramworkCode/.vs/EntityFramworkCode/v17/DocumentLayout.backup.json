@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\_ViewImports.cshtml",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Controllers\\ProductController.cs",
@@ -138,20 +138,20 @@
               "RelativeToolTip": "EntityFramworkCode\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAqwDQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T03:49:52.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T03:49:52.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "EntityFramworkCode\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T06:04:00.268Z"
+              "WhenOpened": "2024-12-31T06:04:00.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Product\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\Product\\AddProduct.cshtml",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Program.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Program.cs",
@@ -216,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\_ViewStart.cshtml",
@@ -228,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\Shared\\_Layout.cshtml",
@@ -236,8 +236,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T04:51:01.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:51:01.3Z"
             },
             {
               "$type": "Document",
@@ -253,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AddCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Category\\AddCategory.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\Category\\AddCategory.cshtml",
@@ -265,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DeleteProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Product\\DeleteProduct.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\Product\\DeleteProduct.cshtml",
