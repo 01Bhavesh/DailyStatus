@@ -10,13 +10,29 @@ namespace Out_RefParameters
     {
         static void Main(string[] args)
         {
-            int x = 20;
+            int x = 10;
             int y = 10;
             //Swapping(x, y);       //call by value
+            int a = 50;
+            dynamic str = 10;
+            string str1 = "bhavesh";
+            string str2 = "bhavesh";
+            string str4 = new string("bhavesh".ToCharArray());
+            char[] ch = { 'b', 'h', 'a', 'v', 'e', 's', 'h' };
+            string str3 = new string(ch);
+            Console.WriteLine(str1 == str3);
+            Console.WriteLine(str2 == str4);
+            Console.WriteLine(str1.Equals(str3));
+            //Console.WriteLine(a.GetType());
+            //Console.WriteLine(str.GetType());
+            //str = "bhavesh";
+            //Console.WriteLine(str.GetType());
 
-            Swapping(ref x, ref y);
 
-            Console.WriteLine($"Swap value of 'x = ' {x} and 'y = ' {y}");
+            //Swapping(ref x, ref y , out a);
+            //Console.WriteLine(a);
+
+            //Console.WriteLine($"Swap value of 'x = ' {x} and 'y = ' {y}");
         }
         //public static void Swapping(int x, int y)
         //{
@@ -27,12 +43,13 @@ namespace Out_RefParameters
         //}
 
 
-        public static void Swapping(ref int x, ref int y)
+        public static void Swapping(ref int x, ref int y, out int a)
         {
             Console.WriteLine($"Swap value of 'x = ' {x} and 'y = ' {y}");
             x = x + y;
             y = x - y;
             x = x - y;
+            a = x + y;
             
         }
     }

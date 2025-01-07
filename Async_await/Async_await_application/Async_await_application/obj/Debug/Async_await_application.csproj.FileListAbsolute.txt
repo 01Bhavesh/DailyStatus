@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\bin\Debug\Async_await_application.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\bin\Debug\Async_await_application.exe
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\bin\Debug\Async_await_application.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\obj\Debug\Async_await_application.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\obj\Debug\Async_await_application.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\obj\Debug\Async_await_application.exe
+C:\Users\Nimap\source\repos\DailyStatus\Async_await\Async_await_application\Async_await_application\obj\Debug\Async_await_application.pdb

@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using project.Models;
+using Project.Dataaccess.Repository;
 using Project.Dataaccess.Server;
 
 
@@ -10,6 +11,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(o => o.UseSqlServer(builder
     .Configuration.GetConnectionString("CategoryData")));
+
+builder.Services.AddScoped<ICategory, CategoryRepo>();
 
 var app = builder.Build();
 
@@ -30,6 +33,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

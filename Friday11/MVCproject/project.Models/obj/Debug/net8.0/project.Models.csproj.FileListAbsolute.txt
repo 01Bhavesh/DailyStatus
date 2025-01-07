@@ -10,3 +10,5 @@ C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\obj\D
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\obj\Debug\net8.0\refint\project.Models.dll
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\obj\Debug\net8.0\project.Models.pdb
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\obj\Debug\net8.0\ref\project.Models.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\project.Models\bin\Debug\net8.0\appsettings.json

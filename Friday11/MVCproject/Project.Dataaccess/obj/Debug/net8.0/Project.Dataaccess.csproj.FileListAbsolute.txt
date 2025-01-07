@@ -18,3 +18,5 @@ C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\o
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\obj\Debug\net8.0\Project.Dataaccess.pdb
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\obj\Debug\net8.0\Project.Dataaccess.genruntimeconfig.cache
 C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\obj\Debug\net8.0\ref\Project.Dataaccess.dll
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nimap\source\repos\DailyStatus\Friday11\MVCproject\Project.Dataaccess\bin\Debug\net8.0\appsettings.json
