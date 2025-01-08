@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\bin\Debug\DiamondProblemSolution.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\bin\Debug\DiamondProblemSolution.exe
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\bin\Debug\DiamondProblemSolution.pdb
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\obj\Debug\DiamondProblemSolution.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\obj\Debug\DiamondProblemSolution.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\obj\Debug\DiamondProblemSolution.exe
+C:\Users\Nimap\source\repos\DailyStatus\DiamondProblem\DiamondProblemSolution\DiamondProblemSolution\obj\Debug\DiamondProblemSolution.pdb

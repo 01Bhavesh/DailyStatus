@@ -12,8 +12,8 @@ namespace StringInterpolation
         {
             Interpolation();        //String interpolation
 
-            string str = "Rohit";
-            StringBuilder sb = new StringBuilder(str);
+            string str = "Rohit";       //string is immutable / we can't modify string , if we modify then it will create new instance to store value
+            StringBuilder sb = new StringBuilder(str);  //stringbuilder is mutable / we can modify string
             sb.Append(" Sharma");   //data store in same memory as previously get stored
 
 
@@ -24,6 +24,7 @@ namespace StringInterpolation
             Console.WriteLine("Enter 2 number: ");
             int num1 = int.Parse(Console.ReadLine());
             int num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(num1 + num2 + " Addition will be " + num1 + num2);
             Console.WriteLine("Addition of " + num1 + " and " + num2 + " is " + num1 + num2); //instand of addition it will return string 
             Console.WriteLine("Addition of " + num1 + " and " + num2 + " is " + (num1 + num2)); // Concatination happend
 

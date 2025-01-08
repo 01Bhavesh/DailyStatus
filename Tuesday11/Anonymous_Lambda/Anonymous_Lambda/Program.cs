@@ -11,6 +11,7 @@ namespace Anonymous_Lambda
     public delegate int MyDelegate(int val); // delegate
     public class Program
     {
+        //public delegate int MyDelegate(int val);
         public static void sender(int val)
         {
             val = val * val;

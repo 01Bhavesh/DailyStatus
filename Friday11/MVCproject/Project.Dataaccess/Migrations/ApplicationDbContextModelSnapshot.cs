@@ -38,7 +38,7 @@ namespace Project.Dataaccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("categories");
+                    b.ToTable("Categories");
 
                     b.HasData(
                         new
@@ -58,6 +58,97 @@ namespace Project.Dataaccess.Migrations
                             Id = 3,
                             DisplayOrder = 1,
                             Name = "History"
+                        });
+                });
+
+            modelBuilder.Entity("project.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ListPrice")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price100")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price50")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Author = "Vinay",
+                            Description = "Fortune Time is a three-reel, nine-line mechanical slot game by Everi that involves searching for hidden treasures",
+                            ISBN = "SWD98320284",
+                            ListPrice = 99,
+                            Price = 90,
+                            Price100 = 80,
+                            Price50 = 85,
+                            Title = "Fortune of time"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Author = "Deepak",
+                            Description = "this novel is considered a classic and explores themes of class, gender, and tragedy.",
+                            ISBN = "SWD98322344",
+                            ListPrice = 120,
+                            Price = 110,
+                            Price100 = 100,
+                            Price50 = 105,
+                            Title = "The Great Gatsby"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Author = "Mayur",
+                            Description = "this book is considered an English classic and tells the story of a man in search of truth.",
+                            ISBN = "SWD45320284",
+                            ListPrice = 150,
+                            Price = 145,
+                            Price100 = 130,
+                            Price50 = 140,
+                            Title = "The Pilgrim's Progress"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Author = "Saurabh",
+                            Description = "this novel is considered a complex literary confection.",
+                            ISBN = "SWD9832684",
+                            ListPrice = 200,
+                            Price = 195,
+                            Price100 = 170,
+                            Price50 = 180,
+                            Title = "Robinson Crusoe"
                         });
                 });
 #pragma warning restore 612, 618

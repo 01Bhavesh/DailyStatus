@@ -14,6 +14,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(o => o.UseSqlServer(builder
 
 builder.Services.AddScoped<ICategory, CategoryRepo>();
 
+builder.Services.AddScoped<IProduct, ProductRepo>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

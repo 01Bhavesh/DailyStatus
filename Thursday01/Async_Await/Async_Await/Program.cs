@@ -28,7 +28,7 @@ namespace Async_Await
         }
         public static async void Print()
         {
-             await Task.Run(new Action(Add));        //async and await use i pair , it will wait until task
+             //await Task.Run(new Action(Add));        //async and await use i pair , it will wait until task
                                                     //get executed then move to next line code execution  
             Console.WriteLine(" hello...");
         }
@@ -49,7 +49,7 @@ namespace Async_Await
         public static void PrimeNumber()
         {
             List<int> arr = new List<int>(); 
-            for(int i = 2; i < 3000; i++)
+            for(int i = 2; i < 100; i++)
             {
                 bool flag = false;
                 for (int j = 2; j < i / 2; j++)
@@ -60,6 +60,8 @@ namespace Async_Await
                         break;
                     }
                 }
+                //int a = 0;                //Main() method will get execute 
+                //Console.WriteLine(i/a);
                 if (!flag)
                 {
                     arr.Add(i);

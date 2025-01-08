@@ -87,7 +87,7 @@ namespace MVCproject.Areas.Admin.Controllers
             }
             return View();
         }
-        [HttpPost]
+        [HttpDelete]
         public IActionResult Delete(Category category)
         {
             if (category == null)
@@ -98,5 +98,6 @@ namespace MVCproject.Areas.Admin.Controllers
             TempData["success"] = "Category deleted successfully..";
             return RedirectToAction("GetCategory");
         }
+        
     }
 }

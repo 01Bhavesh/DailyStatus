@@ -33,7 +33,7 @@ namespace Project.Dataaccess.Repository
             var category = await _db.Categories.Where(c => c.Id == Id).FirstOrDefaultAsync();
             if (category == null)
             {
-                throw new Exception("product is not present");
+                throw new Exception("Category is not present");
             }
             return category;
         }

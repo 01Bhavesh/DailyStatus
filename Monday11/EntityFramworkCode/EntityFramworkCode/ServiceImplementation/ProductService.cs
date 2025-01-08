@@ -45,6 +45,9 @@ namespace EntityFramworkCode.ServiceImplementation
         public async Task<(List<Product> , int totalcount)> GetProducts(int page, int pageSize) //Eager Loading
         {
             int totalcount = _dbProduct.products.Count();
+
+            //var product = _dbProduct.products.FirstOrDefault(p => p.Id == 1);
+
             return (await _dbProduct.products           
                 //.Where(p => p.isActive == true)
                 .Include(p => p.category)

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Async_await\\Async_await_application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Async_await\\Async_await_application\\async_await_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\async_await\\async_await_application\\async_await_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|solutionrelative:async_await_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\async_await\\async_await_application\\async_await_application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Async_await\\Async_await_application\\async_await_application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D6FD54-4753-489F-A99F-675489BE1EA4}|Async_await_application\\Async_await_application.csproj|solutionrelative:async_await_application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Async_await_application\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T04:28:37.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T04:28:37.126Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Async_await_application\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Async_await\\Async_await_application\\Async_await_application\\Program.cs",
               "RelativeToolTip": "Async_await_application\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T04:10:39.523Z",
               "EditorCaption": ""
