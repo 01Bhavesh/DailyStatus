@@ -17,12 +17,13 @@ namespace TaskParallelLibrary
             //obj2.Start();
             Task obj1 = new Task(Divid);
             //obj1.RunSynchronously();      // when you run application then that particular task/thread
-                                            // is going to excecuted.
+                                          // is going to excecuted.
             obj1.Start();
             Task obj2 = new Task(Add);
-            obj2.RunSynchronously();
-            //obj2.Start();             //after complition of thread work .start() is not going
-                                        //to run again , that will give exception
+            //obj2.RunSynchronously();
+            obj2.Start();             //after complition of thread work .start() is not going
+            //to run again , that will give exception
+            Console.Read();
         }
         public static void Divid()
         { 

@@ -87,13 +87,9 @@ namespace MVCproject.Areas.Admin.Controllers
             }
             return View();
         }
-        [HttpDelete]
+        [HttpPost]
         public IActionResult Delete(Category category)
         {
-            if (category == null)
-            {
-                return NotFound();
-            }
             _db.Delete(category);
             TempData["success"] = "Category deleted successfully..";
             return RedirectToAction("GetCategory");

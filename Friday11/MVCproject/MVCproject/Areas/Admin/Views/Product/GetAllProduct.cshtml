@@ -1,77 +1,65 @@
-﻿@model IEnumerable<project.Models.Product>
-
-@{
-    ViewData["Title"] = "GetAllProduct";
+﻿@model List<Product>
+@if (TempData["success"] != null)
+{
+	<h2>@TempData["success"]</h2>
 }
+<div class="row">
+	<div class="col-6">
+		<h2>Product List</h2>
+	</div>
+	<div class="col-6">
+		<a asp-controller="Product" asp-action="Create" class="btn btn-primary">
+			<i class="bi bi-plus-circle"></i>Create Product
+		</a>
+	</div>
+</div>
 
-<h1>GetAllProduct</h1>
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Description</th>
+			<th>ISBN</th>
+			<th>Author</th>
+			<th>ListProce</th>
+			<th>Price 1-50</th>
+			<th>Price 50+</th>
+			<th>Price 100+</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var product in Model)
+		{
+			<tr>
+				<td>@product.Title</td>
+				<td>@product.Description</td>
+				<td>@product.ISBN</td>
+				<td>@product.Author</td>
+				<td>@product.ListPrice</td>
+				<td>@product.Price</td>
+				<td>@product.Price50</td>
+				<td>@product.Price100</td>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Title)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ISBN)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Author)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ListPrice)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price50)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price100)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Title)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ISBN)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Author)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ListPrice)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price50)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price100)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
+				<td>
+					<div class="w-75 btn-group" role="group">
+						<a asp-controller="Product" asp-action="Edit" asp-route-Id="@product.Id" class="btn btn-outline-primary btn-sm">
+							<i class="bi bi-pencil-square"></i>
+							Edit
+						</a>
+						<a asp-controller="Product" asp-action="Delete" asp-route-Id="@product.Id" class="btn btn-outline-danger btn-sm">
+							<i class="bi bi-trash"></i>
+							Delete
+						</a>
+					</div>
+				</td>
+			</tr>
+		}
+	</tbody>
 </table>
+
+@section Scripts
+{
+	@{
+		<partial name="_ValidationScriptsPartial"></partial>
+	}
+}

@@ -73,11 +73,18 @@ namespace Project.Dataaccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -99,6 +106,8 @@ namespace Project.Dataaccess.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoryId");
+
                     b.ToTable("Products");
 
                     b.HasData(
@@ -106,8 +115,10 @@ namespace Project.Dataaccess.Migrations
                         {
                             Id = 1,
                             Author = "Vinay",
+                            CategoryId = 1,
                             Description = "Fortune Time is a three-reel, nine-line mechanical slot game by Everi that involves searching for hidden treasures",
                             ISBN = "SWD98320284",
+                            ImageUrl = "",
                             ListPrice = 99,
                             Price = 90,
                             Price100 = 80,
@@ -118,8 +129,10 @@ namespace Project.Dataaccess.Migrations
                         {
                             Id = 2,
                             Author = "Deepak",
+                            CategoryId = 1,
                             Description = "this novel is considered a classic and explores themes of class, gender, and tragedy.",
                             ISBN = "SWD98322344",
+                            ImageUrl = "",
                             ListPrice = 120,
                             Price = 110,
                             Price100 = 100,
@@ -130,8 +143,10 @@ namespace Project.Dataaccess.Migrations
                         {
                             Id = 3,
                             Author = "Mayur",
+                            CategoryId = 2,
                             Description = "this book is considered an English classic and tells the story of a man in search of truth.",
                             ISBN = "SWD45320284",
+                            ImageUrl = "",
                             ListPrice = 150,
                             Price = 145,
                             Price100 = 130,
@@ -142,14 +157,27 @@ namespace Project.Dataaccess.Migrations
                         {
                             Id = 4,
                             Author = "Saurabh",
+                            CategoryId = 3,
                             Description = "this novel is considered a complex literary confection.",
                             ISBN = "SWD9832684",
+                            ImageUrl = "",
                             ListPrice = 200,
                             Price = 195,
                             Price100 = 170,
                             Price50 = 180,
                             Title = "Robinson Crusoe"
                         });
+                });
+
+            modelBuilder.Entity("project.Models.Product", b =>
+                {
+                    b.HasOne("project.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

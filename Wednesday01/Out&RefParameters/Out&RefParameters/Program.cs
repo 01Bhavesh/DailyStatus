@@ -13,7 +13,7 @@ namespace Out_RefParameters
             int x = 10;
             int y = 10;
             //Swapping(x, y);       //call by value
-            int a = 50;
+            int a;
             dynamic str = 10;
             string str1 = "bhavesh";
             string str2 = "bhavesh";
@@ -28,9 +28,10 @@ namespace Out_RefParameters
             //str = "bhavesh";
             //Console.WriteLine(str.GetType());
 
+          
 
-            //Swapping(ref x, ref y , out a);
-            //Console.WriteLine(a);
+            Swapping(ref x, ref y, out a);
+            Console.WriteLine(a);
 
             //Console.WriteLine($"Swap value of 'x = ' {x} and 'y = ' {y}");
         }
@@ -50,7 +51,7 @@ namespace Out_RefParameters
             y = x - y;
             x = x - y;
             a = x + y;
-            
+
         }
     }
 }

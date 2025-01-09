@@ -28,12 +28,12 @@
 			<tr>
 				<td>@category.Name</td>
 				<td>@category.DisplayOrder</td>
-				<td><div class="group">
-					<a asp-controller="Category" asp-action="Edit" asp-route-Id="@category.Id" class="btn btn-outline-primary">
+				<td><div class="w-75 btn-group" role="group">
+					<a asp-controller="Category" asp-action="Edit" asp-route-Id="@category.Id" class="btn btn-outline-primary btn-sm">
 							<i class="bi bi-pencil-square"></i>
 							Edit
 					</a>
-						<a asp-controller="Category" asp-action="Delete" asp-route-Id="@category.Id" class="btn btn-outline-danger">
+						<a asp-controller="Category" asp-action="Delete" asp-route-Id="@category.Id" class="btn btn-outline-danger btn-sm">
 							<i class="bi bi-trash"></i>
 							Delete
 						</a>

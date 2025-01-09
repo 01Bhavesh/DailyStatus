@@ -24,18 +24,18 @@ namespace Project.Dataaccess.Repository
 
         public void Delete(Product product)
         {
-            _db.Remove(product);
+            _db.Products.Remove(product);
             _db.SaveChanges();
         }
 
         public async Task<List<Product>> GetAllProduct()
         {
-            return await _db.Products.ToListAsync();   
+            return await _db.Products.Include(p => p.Category).ToListAsync();   
         }
 
         public async Task<Product> GetProductById(int Id)
         {
-            Product product = await _db.Products.FirstOrDefaultAsync(p => p.Id == Id);
+            Product? product = await _db.Products.FirstOrDefaultAsync(p => p.Id == Id);
             if (product == null)
             {
                 throw new Exception("Product is not present");

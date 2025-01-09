@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Drawing;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using project.Models;
 using Project.Dataaccess.Repository;
+using Project.Dataaccess.Server;
 
 namespace MVCproject.Areas.Admin.Controllers
 {
@@ -8,14 +11,18 @@ namespace MVCproject.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly IProduct _db;
-        public ProductController(IProduct db)
+        private readonly ApplicationDbContext _conn;
+        public ProductController(IProduct db, ApplicationDbContext conn)
         {
             _db = db;
+            _conn = conn;
         }
         [HttpGet]
+
+        [Route("/products")]
         public async Task<IActionResult> GetAllProduct()
         {
-            var lst = _db.GetAllProduct();
+            var lst = await _db.GetAllProduct();
             if (lst == null)
             {
                 return NotFound();
@@ -25,6 +32,7 @@ namespace MVCproject.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            ViewBag.CategoryList = new SelectList(_conn.Categories, "Id", "Name");
             return View();
         }
         [HttpPost]
@@ -41,12 +49,14 @@ namespace MVCproject.Areas.Admin.Controllers
         public async Task<IActionResult> Edit(int Id)
         {
             Product product = await _db.GetProductById(Id);
+            
             if (product == null)
             {
                 return NotFound();
             }
             if (ModelState.IsValid)
             {
+                ViewBag.CategoryList = new SelectList(_conn.Categories, "Id", "Name");
                 return View(product);
             }
             return View();
@@ -71,13 +81,10 @@ namespace MVCproject.Areas.Admin.Controllers
             }
             return View(product);
         }
-        [HttpDelete]
+        [HttpPost]
         public IActionResult Delete(Product product)
         {
-            if (product == null)
-            {
-                return NotFound();
-            }
+            
             _db.Delete(product);
             TempData["success"] = "Product deleted successfully..";
             return RedirectToAction("GetAllProduct");

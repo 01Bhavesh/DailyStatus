@@ -22,16 +22,20 @@ namespace Project.Dataaccess.Server
                  new Category { Id = 3, Name = "History", DisplayOrder = 1 }
             );
             modelBuilder.Entity<Product>().HasData(
-                
-                new Product { Id = 1,
-                Title="Fortune of time",
-                Author="Vinay",
-                Description= "Fortune Time is a three-reel, nine-line mechanical slot game by Everi that involves searching for hidden treasures",
-                ISBN="SWD98320284",
-                ListPrice=99,
-                Price=90,
-                Price50=85,
-                Price100=80
+
+                new Product
+                {
+                    Id = 1,
+                    Title = "Fortune of time",
+                    Author = "Vinay",
+                    Description = "Fortune Time is a three-reel, nine-line mechanical slot game by Everi that involves searching for hidden treasures",
+                    ISBN = "SWD98320284",
+                    ListPrice = 99,
+                    Price = 90,
+                    Price50 = 85,
+                    Price100 = 80,
+                    CategoryId = 1,
+                    ImageUrl = ""
                 },
                 new Product
                 {
@@ -43,7 +47,9 @@ namespace Project.Dataaccess.Server
                     ListPrice = 120,
                     Price = 110,
                     Price50 = 105,
-                    Price100 = 100
+                    Price100 = 100,
+                    CategoryId = 1,
+                    ImageUrl = ""
                 },
                 new Product
                 {
@@ -55,7 +61,9 @@ namespace Project.Dataaccess.Server
                     ListPrice = 150,
                     Price = 145,
                     Price50 = 140,
-                    Price100 = 130
+                    Price100 = 130,
+                    CategoryId = 2,
+                    ImageUrl = ""
                 },
                 new Product
                 {
@@ -67,7 +75,9 @@ namespace Project.Dataaccess.Server
                     ListPrice = 200,
                     Price = 195,
                     Price50 = 180,
-                    Price100 = 170
+                    Price100 = 170,
+                    CategoryId = 3,
+                    ImageUrl = ""
                 }
 
                 );

@@ -40,6 +40,9 @@ namespace Anonymous_Lambda
             //};
             //obj.Invoke(10);
 
+            string[] str = new string[5];
+            string[] str2 = new string[2] { "bhavesh", "jdsaa"};
+            int[] arr = new int[] { 1, 2, 354, 5, 3 };
 
             MyDelegate obj = (val) => { return val = val * val; };
             Console.WriteLine(obj.Invoke(10));
