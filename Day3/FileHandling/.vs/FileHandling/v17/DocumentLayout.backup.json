@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FileHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filehandling\\filehandling\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filehandling\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filehandling\\filehandling\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91BB3C95-1BED-49B2-AABB-5C6B18C45EE1}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Data.txt",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FileHandling\\FileHandling\\Data.txt",
               "RelativeDocumentMoniker": "FileHandling\\Data.txt",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FileHandling\\FileHandling\\Data.txt",
               "RelativeToolTip": "FileHandling\\Data.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-23T04:49:22.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FileHandling\\FileHandling\\Program.cs",
               "RelativeDocumentMoniker": "FileHandling\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FileHandling\\FileHandling\\Program.cs",
               "RelativeToolTip": "FileHandling\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T04:46:53.714Z",
               "EditorCaption": ""

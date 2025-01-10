@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday01\\SecodHeighestWord\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{448C3CC8-D3DF-43BB-B5A3-DD06228D9C85}|SecodHeighestWord\\SecodHeighestWord.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday01\\secodheighestword\\secodheighestword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{448C3CC8-D3DF-43BB-B5A3-DD06228D9C85}|SecodHeighestWord\\SecodHeighestWord.csproj|solutionrelative:secodheighestword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T02:52:09.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday01\\SecodHeighestWord\\SecodHeighestWord\\Program.cs",
               "RelativeDocumentMoniker": "SecodHeighestWord\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday01\\SecodHeighestWord\\SecodHeighestWord\\Program.cs",
               "RelativeToolTip": "SecodHeighestWord\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T09:39:51.667Z",
               "EditorCaption": ""

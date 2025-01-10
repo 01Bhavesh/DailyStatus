@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
               "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T12:53:20.048Z",
               "EditorCaption": ""
@@ -139,8 +139,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:42:05.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:42:05.341Z"
             },
             {
               "$type": "Document",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\CategoryService.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAEwEQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T11:03:42.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T11:03:42.936Z"
             },
             {
               "$type": "Document",
@@ -177,8 +175,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Server\\DbProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:46:04.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:46:04.216Z"
             },
             {
               "$type": "Document",
@@ -190,8 +187,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAiwDEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T06:04:00.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T06:04:00.268Z"
             },
             {
               "$type": "Document",
@@ -203,8 +199,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T03:49:52.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T03:49:52.661Z"
             },
             {
               "$type": "Document",
@@ -216,8 +211,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAewAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:31:17.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:31:17.245Z"
             },
             {
               "$type": "Document",
@@ -229,8 +223,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Views\\Product\\GetProduct.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAiwB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T06:42:34.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T06:42:34.496Z"
             },
             {
               "$type": "Document",
@@ -242,8 +235,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Views\\Product\\DeleteProduct.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAqwBEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T04:50:12.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:50:12.3Z"
             },
             {
               "$type": "Document",
@@ -255,8 +247,7 @@
               "RelativeToolTip": "EntityFramworkCode\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T04:51:01.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:51:01.3Z"
             },
             {
               "$type": "Document",

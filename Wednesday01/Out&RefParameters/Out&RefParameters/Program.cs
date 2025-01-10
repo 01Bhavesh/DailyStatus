@@ -20,6 +20,7 @@ namespace Out_RefParameters
             string str4 = new string("bhavesh".ToCharArray());
             char[] ch = { 'b', 'h', 'a', 'v', 'e', 's', 'h' };
             string str3 = new string(ch);
+            //int[] arr = new int[5] { 1, 2, 3, 4,5 };
             Console.WriteLine(str1 == str3);
             Console.WriteLine(str2 == str4);
             Console.WriteLine(str1.Equals(str3));
