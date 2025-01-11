@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tMtb2KB8/KsQnZYcG9rvBcQ/clmUaFhA4SpVD6KHQqQ=",
+  "Hash": "2P3U0Z9/j5IdF5bI8Ik9aaE3Td1rB0gEJII+nZxZILk=",
   "Source": "MVCproject",
   "BasePath": "_content/MVCproject",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\wwwroot\\images\\Product\\631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "SourceId": "MVCproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\wwwroot\\",
+      "BasePath": "_content/MVCproject",
+      "RelativePath": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h3obdn5k0y",
+      "Integrity": "Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg"
     },
     {
       "Identity": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\wwwroot\\js\\site.js",
@@ -1481,6 +1502,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.h3obdn5k0y.jpg",
+      "AssetFile": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\wwwroot\\images\\Product\\631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:55:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3obdn5k0y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "AssetFile": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\wwwroot\\images\\Product\\631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:55:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE="
         }
       ]
     },

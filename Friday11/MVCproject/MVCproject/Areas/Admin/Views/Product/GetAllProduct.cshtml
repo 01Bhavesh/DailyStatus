@@ -25,6 +25,7 @@
 			<th>Price 1-50</th>
 			<th>Price 50+</th>
 			<th>Price 100+</th>
+			<th>Image</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -39,16 +40,16 @@
 				<td>@product.Price</td>
 				<td>@product.Price50</td>
 				<td>@product.Price100</td>
-
 				<td>
-					<div class="w-75 btn-group" role="group">
+					<img src="@product.ImageUrl" alt="@product.Title" width="100" />
+				</td>
+				<td>
+					<div class="btn-group">
 						<a asp-controller="Product" asp-action="Edit" asp-route-Id="@product.Id" class="btn btn-outline-primary btn-sm">
-							<i class="bi bi-pencil-square"></i>
-							Edit
+							<i class="bi bi-pencil-square"></i> Edit
 						</a>
 						<a asp-controller="Product" asp-action="Delete" asp-route-Id="@product.Id" class="btn btn-outline-danger btn-sm">
-							<i class="bi bi-trash"></i>
-							Delete
+							<i class="bi bi-trash"></i> Delete
 						</a>
 					</div>
 				</td>

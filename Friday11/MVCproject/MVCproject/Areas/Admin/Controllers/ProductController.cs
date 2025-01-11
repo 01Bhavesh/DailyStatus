@@ -12,10 +12,12 @@ namespace MVCproject.Areas.Admin.Controllers
     {
         private readonly IProduct _db;
         private readonly ApplicationDbContext _conn;
-        public ProductController(IProduct db, ApplicationDbContext conn)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductController(IProduct db, ApplicationDbContext conn, IWebHostEnvironment webHost)
         {
             _db = db;
             _conn = conn;
+            _webHostEnvironment = webHost;
         }
         [HttpGet]
 
@@ -36,15 +38,41 @@ namespace MVCproject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Product product)
+        public IActionResult Create(Product product, IFormFile file)
         {
-            if (ModelState.IsValid)
-            {
-                _db.Add(product);
+                string fileName = null;
+                string wwwroot = _webHostEnvironment.WebRootPath;  //find path of wwwroot file
+                if (file != null)
+                {
+                    fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName); // random name + extension of file
+                    string pathName = Path.Combine(wwwroot, @"images\Product"); //combine path of wwwroot and image\Product
+                    using (var filePath = new FileStream(Path.Combine(pathName, fileName), FileMode.Create)) // create file
+                    {
+                        file.CopyTo(filePath); // copy image into filepath
+                    }
+                    //_conn.Products.Add()  //ImageUrl = @"\images\Product\" + fileName;
+
+                }
+
+                var products = new Product();
+                products.Id = product.Id;
+                products.Title = product.Title;
+                products.Description = product.Description;
+                products.ISBN = product.ISBN;
+                products.Author = product.Author;
+                products.ListPrice = product.ListPrice;
+                products.Price = product.Price;
+                products.Price50 = product.Price50;
+                products.Price100 = product.Price100;
+                products.CategoryId = product.CategoryId;
+                products.Category = product.Category;
+                products.ImageUrl = @"\images\Product\" + fileName;
+
+
+                _db.Add(products);
                 TempData["success"] = "Product added successfully.."; // Use to show data on UI
                 return RedirectToAction("GetAllProduct");
-            }
-            return View();
+            
         }
         public async Task<IActionResult> Edit(int Id)
         {
@@ -62,15 +90,40 @@ namespace MVCproject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Edit(Product product)
+        public IActionResult Edit(Product product, IFormFile file)
         {
-            if (ModelState.IsValid)
+            string fileName = null;
+            string wwwroot = _webHostEnvironment.WebRootPath;
+            if (file != null)
             {
-                _db.Update(product);
+                fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName); // random name + extension of file
+                string pathName = Path.Combine(wwwroot, @"images\Product");
+                using (var filePath = new FileStream(Path.Combine(pathName, fileName), FileMode.Create))
+                {
+                    file.CopyTo(filePath);
+                }
+                //_conn.Products.Add()  //ImageUrl = @"\images\Product\" + fileName;
+
+            }
+
+            var products = new Product();
+            products.Id = product.Id;
+            products.Title = product.Title;
+            products.Description = product.Description;
+            products.ISBN = product.ISBN;
+            products.Author = product.Author;
+            products.ListPrice = product.ListPrice;
+            products.Price = product.Price;
+            products.Price50 = product.Price50;
+            products.Price100 = product.Price100;
+            products.CategoryId = product.CategoryId;
+            products.Category = product.Category;
+            products.ImageUrl = @"\images\Product\" + fileName;
+
+            _db.Update(products);
                 TempData["success"] = "Product updated successfully..";
                 return RedirectToAction("GetAllProduct");
-            }
-            return View();
+           
         }
         public async Task<IActionResult> Delete(int Id)
         {

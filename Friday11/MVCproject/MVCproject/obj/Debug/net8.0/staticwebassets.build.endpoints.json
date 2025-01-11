@@ -249,6 +249,88 @@
       ]
     },
     {
+      "Route": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.h3obdn5k0y.jpg",
+      "AssetFile": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:55:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3obdn5k0y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "AssetFile": "images/Product/631584b3-58ff-49e3-92e6-3c8d3de7ec60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:55:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q3iFIt3vUxX11Q28gVTNueFmfA06kNXVyH7wiyrmwRE="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

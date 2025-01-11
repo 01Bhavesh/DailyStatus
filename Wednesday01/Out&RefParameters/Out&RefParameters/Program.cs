@@ -10,10 +10,12 @@ namespace Out_RefParameters
     {
         static void Main(string[] args)
         {
-            int x = 10;
+            int x = 10; // when REF is use that time we have to initialize value of variables
+                        // before passing argument in method
             int y = 10;
             //Swapping(x, y);       //call by value
-            int a;
+            int a ;  //using OUT keyword we may or may not have to initialize
+                     //value of variable
             dynamic str = 10;
             string str1 = "bhavesh";
             string str2 = "bhavesh";

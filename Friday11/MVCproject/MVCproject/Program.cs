@@ -4,7 +4,8 @@ using Project.Dataaccess.Repository;
 using Project.Dataaccess.Server;
 
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args); //create instance of webapplication sealed class
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
