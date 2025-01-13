@@ -14,11 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -28,7 +36,7 @@
               "RelativeDocumentMoniker": "Out\u0026RefParameters\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Wednesday01\\Out\u0026RefParameters\\Out\u0026RefParameters\\Program.cs",
               "RelativeToolTip": "Out\u0026RefParameters\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwBEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T10:02:42.168Z",
               "EditorCaption": ""

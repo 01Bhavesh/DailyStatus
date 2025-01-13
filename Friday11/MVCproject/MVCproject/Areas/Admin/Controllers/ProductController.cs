@@ -66,7 +66,10 @@ namespace MVCproject.Areas.Admin.Controllers
                 products.Price100 = product.Price100;
                 products.CategoryId = product.CategoryId;
                 products.Category = product.Category;
-                products.ImageUrl = @"\images\Product\" + fileName;
+                products.ImageUrl = @"\images\Product\" + fileName; // its just
+                                                                    // path were
+                                                                    // recived file
+                                                                    // get store.
 
 
                 _db.Add(products);

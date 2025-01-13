@@ -31,7 +31,7 @@ namespace Out_RefParameters
             //str = "bhavesh";
             //Console.WriteLine(str.GetType());
 
-          
+            
 
             Swapping(ref x, ref y, out a);
             Console.WriteLine(a);

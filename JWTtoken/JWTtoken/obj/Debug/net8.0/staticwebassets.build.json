@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z6j46KFAL/3EMyFuL63XCmQIDsFVAZA1RMWFXnKVbB0=",
+  "Source": "JWTtoken",
+  "BasePath": "_content/JWTtoken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

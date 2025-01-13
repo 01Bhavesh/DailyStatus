@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\areas\\admin\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\areas\\admin\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF39A4E6-E96B-4A10-8A69-86899F10831A}|project.Models\\project.Models.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\project.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +43,8 @@
       "RelativeMoniker": "D:0:0:{5D494D50-4C6B-4BD0-8DE6-7DE689CF9CE7}|Project.Dataaccess\\Project.Dataaccess.csproj|solutionrelative:project.dataaccess\\server\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Migrations\\20250111090245_UpdateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Dataaccess\\Migrations\\20250111090245_UpdateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D494D50-4C6B-4BD0-8DE6-7DE689CF9CE7}|Project.Dataaccess\\Project.Dataaccess.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\project.dataaccess\\migrations\\20250111090245_updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D494D50-4C6B-4BD0-8DE6-7DE689CF9CE7}|Project.Dataaccess\\Project.Dataaccess.csproj|solutionrelative:project.dataaccess\\migrations\\20250111090245_updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +54,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetAllProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
-              "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
-              "RelativeToolTip": "MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T09:56:11.912Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\appsettings.json",
+              "RelativeToolTip": "MVCproject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T11:37:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:29:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Program.cs",
+              "RelativeDocumentMoniker": "MVCproject\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Program.cs",
+              "RelativeToolTip": "MVCproject\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:51:16.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MVCproject\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T10:16:48.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeToolTip": "MVCproject\\Areas\\Admin\\Views\\Product\\GetAllProduct.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:56:11.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Repository\\ProductRepo.cs",
               "RelativeDocumentMoniker": "Project.Dataaccess\\Repository\\ProductRepo.cs",
@@ -67,12 +136,11 @@
               "RelativeToolTip": "Project.Dataaccess\\Repository\\ProductRepo.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T09:15:15.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T09:15:15.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Server\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Project.Dataaccess\\Server\\ApplicationDbContext.cs",
@@ -80,12 +148,11 @@
               "RelativeToolTip": "Project.Dataaccess\\Server\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T09:05:16.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T09:05:16.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20250111090245_UpdateProductModel.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Migrations\\20250111090245_UpdateProductModel.cs",
               "RelativeDocumentMoniker": "Project.Dataaccess\\Migrations\\20250111090245_UpdateProductModel.cs",
@@ -93,12 +160,11 @@
               "RelativeToolTip": "Project.Dataaccess\\Migrations\\20250111090245_UpdateProductModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T09:02:45.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T09:02:45.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\project.Models\\Product.cs",
               "RelativeDocumentMoniker": "project.Models\\Product.cs",
@@ -106,34 +172,35 @@
               "RelativeToolTip": "project.Models\\Product.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T08:58:49.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T08:58:49.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "MVCproject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAmwCwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:12:29.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T07:12:29.387Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "MVCproject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T07:06:39.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T07:06:39.904Z"
             }
           ]
         }
