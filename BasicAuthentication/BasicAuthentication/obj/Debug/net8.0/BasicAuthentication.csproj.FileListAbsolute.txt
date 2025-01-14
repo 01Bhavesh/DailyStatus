@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\bin\Debug\net8.0\BasicAuthentication.exe
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\bin\Debug\net8.0\BasicAuthentication.deps.json
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\bin\Debug\net8.0\BasicAuthentication.runtimeconfig.json
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\bin\Debug\net8.0\BasicAuthentication.dll
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\bin\Debug\net8.0\BasicAuthentication.pdb
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.sourcelink.json
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.dll
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\refint\BasicAuthentication.dll
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.pdb
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\BasicAuthentication.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\DailyStatus\BasicAuthentication\BasicAuthentication\obj\Debug\net8.0\ref\BasicAuthentication.dll

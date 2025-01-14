@@ -21,7 +21,7 @@ namespace JWTtoken.Controllers
             User _user = null;
             if (user.Username == "Admin" && user.Password == "12345")
             {
-                _user = new User { Username = "Bhavesh" };
+                _user = new User ("Bhavesh" , "1234");
             }
             return _user;
         }
@@ -48,6 +48,18 @@ namespace JWTtoken.Controllers
                 response = Ok(new { token = token });
             }
             return response;
+        }
+        [AllowAnonymous]
+        [Route("/getUser")]
+        [HttpGet]
+        public IEnumerable<User> GetUser()
+        {
+            return (IEnumerable<User>)new List<User> {  new User ( "bhavesh", "1234"),
+                new User ( "Deepak" , "5678"),
+                new User("Maayur" ,"2345"),
+                new User("Vinay", "6789")
+
+            };
         }
     }
 }

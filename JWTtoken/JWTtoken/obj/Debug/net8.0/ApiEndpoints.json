@@ -36,6 +36,26 @@
     ]
   },
   {
+    "ContainingType": "JWTtoken.Controllers.LoginController",
+    "Method": "GetUser",
+    "RelativePath": "getUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[JWTtoken.Models.User, JWTtoken, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "JWTtoken.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

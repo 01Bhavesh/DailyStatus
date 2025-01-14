@@ -14,7 +14,7 @@ namespace AnonymousType
                                                        //public read-only properties.
                                                        //No other kinds of class members,
                                                        //such as methods or events, are
-                                                       //valid.
+                                                       //valid.Enum and struct are not allowed
         }
     }
 }
