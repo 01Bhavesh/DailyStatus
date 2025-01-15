@@ -740,3 +740,56 @@ select * from student_qualifications where college = 'new york';
 
  select top 5 * from student order by id desc;
 
+ select * from student;
+
+ select * from student order by namefirst desc;
+
+ select id, namefirst, namelast, dob, emailid from student where len(emailID) > 20;  
+
+ select CONCAT(namefirst,' ',namelast) from student;
+
+ select concat(coalesce(namefirst,' '),' ',coalesce(namelast,' '),' and emailid is ',coalesce(emailid,' ')) from student;
+
+ select upper(namefirst), UPPER(namelast) from student;
+
+ select REVERSE(namefirst) , reverse(namelast) from student;
+
+ select SUBSTRING(namefirst,1,4)str from student;
+
+ select substring(namefirst,2,LEN(namefirst)-2) from student;
+
+ select ASCII(namefirst) from student;
+
+ select substring(namefirst,1,5) from student;
+
+ select CONCAT(substring(number,1,5),'*****') from student_phone;
+
+ select * from student where month(dob) = 10;
+ select * from student where DATENAME(month,dob) = 'october'; 
+
+ select * from student where month(dob) in (1,12);
+
+ select * from faculty where DATENAME(WEEKDAY,dob) = 'monday';
+
+SELECT GETDATE() as date;
+
+select datename(month , GETDATE()) as month;
+
+select * from student where datename(year, dob) = 1984;
+
+select floor(RAND()*100);
+
+select * from student order by datename(WEEKDAY , DOB) asc;
+
+select * from student where datename(weekday,dob) = 'sunday';
+
+select concat(day(dob),'th of ',datename(month,dob),' ',datename(year,dob)) from student;
+
+select * from course_batches where datename(WEEKDAY,endson) = 'sunday';
+
+select CONCAT(SUBSTRING(number,1,4),'******') from student_phone;
+
+select CONCAT(SUBSTRING(number,1,4),'**',SUBSTRING(number,7,4)) from student_phone;
+
+
+

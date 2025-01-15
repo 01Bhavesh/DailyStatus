@@ -34,8 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -46,8 +54,7 @@
               "RelativeToolTip": "UserLoginPage\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T08:45:11.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T08:45:11.841Z"
             },
             {
               "$type": "Document",
@@ -57,7 +64,7 @@
               "RelativeDocumentMoniker": "UserLoginPage\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\UserLoginPage\\UserLoginPage\\Controllers\\LoginController.cs",
               "RelativeToolTip": "UserLoginPage\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCcAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T07:12:15.174Z",
               "EditorCaption": ""
@@ -72,8 +79,7 @@
               "RelativeToolTip": "UserLoginPage\\Models\\UserContest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:24:24.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T06:24:24.434Z"
             },
             {
               "$type": "Document",
@@ -85,8 +91,7 @@
               "RelativeToolTip": "UserLoginPage\\Models\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:20:53.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T06:20:53.119Z"
             },
             {
               "$type": "Document",
@@ -98,16 +103,7 @@
               "RelativeToolTip": "UserLoginPage\\Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:18:00.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2025-01-14T06:18:00.134Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "UserLoginPage\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:01:13.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T06:01:13.008Z"
             },
             {
               "$type": "Bookmark",
