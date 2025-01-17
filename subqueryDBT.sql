@@ -47,4 +47,17 @@ select * from course_batches
 where id in 
 (select batchid from batch_students);
 
+--Display all students whose marks of ‘BE’ is more than ‘ULKA’ marks in ‘BE’.
+select * from student;
+select * from student_qualifications;
+select * from student 
+where id in 
+(select studentID 
+from student_qualifications 
+where marks > 
+(select marks 
+from student_qualifications 
+where studentID = 
+(select id from student where namefirst = 'ulka')
+and name = 'be') and name = 'be');
 

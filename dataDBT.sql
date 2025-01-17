@@ -657,3 +657,188 @@ select id from student;
 select * from v1;
 
 select namefirst from student where id in (select * from v1);
+
+create view std_view as
+select namefirst, namelast 
+from student;
+
+select * from std_view;
+
+
+--local temporary table 
+create table #nimap (
+id int primary key ,
+name varchar(20),
+);
+insert into #nimap values(1,'vinay'),(2,'deepak');
+
+select * from #nimap;
+
+--global temporary table
+create table ##nimapglobal(
+id int primary key,
+namefirst varchar(15),
+);
+insert into ##nimapglobal values(1,'vinay'),(2,'deepak');
+
+select * from ##nimapglobal;
+
+--Key to check if cluster index is apply or not
+sp_helpindex student;
+
+--CTE (common table expression)
+with cte_std (firstname,lastname)
+as
+(
+select namefirst, namelast 
+from student where id in(2,3,4,5)
+)
+select * from cte_std;
+
+
+--Non-clustered
+create nonclustered index nonclustd_std
+on student (namefirst, namelast)
+
+
+--Stored Procedure
+create table login (
+id int primary key,
+name varchar(30),
+password varchar(25)
+)
+
+--using store procedure insert data into login table
+drop procedure if exists AddUser
+create procedure AddUser @id int, @name varchar(30), @password varchar(25)
+as
+	begin
+	insert into login (id,name,password) values(@id,@name, @password);
+end 
+
+insert into login(id ,name, password) 
+values(1,'bhavesh','1234'),(2,'vinay','3456');
+
+Exec AddUser 3,'Deepak','2345';
+
+select * from login;
+drop procedure if exists create_user
+
+--using store procedure create table
+create procedure create_user
+as
+	begin
+	create table Users_Log(Id int primary key ,firstname varchar(25),lastname varchar(25))
+end
+
+Exec create_user;
+select * from Users_Log;
+
+create procedure Add_user
+@id int,
+@firstname varchar(25),
+@lastname varchar(25)
+as
+	begin
+	insert into Users_log values(@id,@firstname,@lastname)
+end
+
+Exec Add_user 1,'bhavesh','gharat'
+--Show message
+create procedure Show_data
+as
+	begin
+	select 'hellow world' as message;
+end
+
+Exec Show_data;
+
+--sum of two number using store procedure
+create procedure add_num( @x int  ,  @y int)
+as
+	begin
+	select @x+@y;
+end
+
+exec add_num @x = 10, @y =20;
+
+--store procedure created on fetching data from 2 table
+select * from student;
+select * from student_qualifications;
+create procedure Get_student_by_university
+@university varchar(20)
+as 
+	begin
+	select s.* from student s inner join
+	student_qualifications sq on s.ID = sq.studentID 
+	and sq.university = @university;
+end
+
+exec get_Student_by_university @university = 'Harvard University'
+
+
+--in and out parameter in sql
+create procedure In_out_para
+@x int,
+@y int,
+@num1 int output,
+@num2 int output
+as 
+	begin
+	set @num1 = @x +@y;
+	set @num2 = @x -@y;
+end
+
+declare @res1 int, @res2 int
+exec In_out_para @x = 20 , @y = 6 ,@num1 = @res1 output, @num2 = @res2 output;
+select @res1 ;
+print cast(@res1 as varchar);
+print cast(@res2 as varchar);
+
+--functions
+create function f1()
+returns varchar(25)
+as
+	begin
+	declare @val varchar(25)
+	set @val = 'hello world';
+	return @val
+end
+
+select dbo.f1();
+
+--function called from store procedure
+drop function f1;
+create function f1()
+returns int
+as 
+	begin
+	declare @val int
+	set @val = 10;
+	return @val;
+end
+
+create procedure called_fun
+as
+	begin
+	select dbo.f1();
+end
+
+exec called_fun
+
+--function with select queries
+select * from student_qualifications;
+drop function max_marks;
+create function max_marks()
+@name varchar(20),
+returns int
+as
+	begin
+	declare @val int;
+	select @val = convert(int , max(marks))
+	from student_qualifications
+	where name = @name;
+	return @val; 
+end
+select dbo.max_marks()
+
