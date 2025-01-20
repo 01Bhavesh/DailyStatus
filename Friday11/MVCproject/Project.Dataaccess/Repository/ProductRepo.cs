@@ -42,6 +42,7 @@ namespace Project.Dataaccess.Repository
             }
             return product;
         }
+        string word = string.Join(" ","dasd");
 
         public void Update(Product product)
         {

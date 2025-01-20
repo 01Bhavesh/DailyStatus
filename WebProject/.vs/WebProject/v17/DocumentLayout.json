@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\dbcotextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\dbcotextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\model\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\model\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Migrations\\20250120101020_InitailUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebProject\\Migrations\\20250120101020_InitailUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\webproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\webproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\webproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\webproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\webproject\\webproject\\migrations\\20250120101542_initailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A23F77-9BB9-4E59-B5CB-1DFEBD9C5758}|WebProject\\WebProject.csproj|solutionrelative:webproject\\migrations\\20250120101542_initailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "WebProject\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "WebProject\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:47:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebProject\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebProject\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:17:53.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250120101542_InitailUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Migrations\\20250120101542_InitailUpdate.cs",
+              "RelativeDocumentMoniker": "WebProject\\Migrations\\20250120101542_InitailUpdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Migrations\\20250120101542_InitailUpdate.cs",
+              "RelativeToolTip": "WebProject\\Migrations\\20250120101542_InitailUpdate.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:15:42.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250120101020_InitailUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Migrations\\20250120101020_InitailUpdate.cs",
+              "RelativeDocumentMoniker": "WebProject\\Migrations\\20250120101020_InitailUpdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Migrations\\20250120101020_InitailUpdate.cs",
+              "RelativeToolTip": "WebProject\\Migrations\\20250120101020_InitailUpdate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:10:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbCotextApp.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\DbCotextApp.cs",
+              "RelativeDocumentMoniker": "WebProject\\DbCotextApp.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\DbCotextApp.cs",
+              "RelativeToolTip": "WebProject\\DbCotextApp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:11:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\appsettings.json",
+              "RelativeDocumentMoniker": "WebProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\appsettings.json",
+              "RelativeToolTip": "WebProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T09:05:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Book_Author.cs",
+              "RelativeDocumentMoniker": "WebProject\\Model\\Book_Author.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Book_Author.cs",
+              "RelativeToolTip": "WebProject\\Model\\Book_Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:41:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "WebProject\\Model\\Author.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Author.cs",
+              "RelativeToolTip": "WebProject\\Model\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:37:38.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "WebProject\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Model\\Book.cs",
+              "RelativeToolTip": "WebProject\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:33:02.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WebProject.csproj",
+              "RelativeDocumentMoniker": "WebProject\\WebProject.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WebProject.csproj",
+              "RelativeToolTip": "WebProject\\WebProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T08:32:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Program.cs",
+              "RelativeDocumentMoniker": "WebProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\Program.cs",
+              "RelativeToolTip": "WebProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:19:19.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WeatherForecast.cs",
+              "RelativeToolTip": "WebProject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:19:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebProject.http",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WebProject.http",
+              "RelativeDocumentMoniker": "WebProject\\WebProject.http",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\WebProject\\WebProject\\WebProject.http",
+              "RelativeToolTip": "WebProject\\WebProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-20T07:19:05.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

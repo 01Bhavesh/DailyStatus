@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{418FFDBB-F780-45BA-80FC-B426DAE95DA5}|Anonymous_Lambda\\Anonymous_Lambda.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\tuesday11\\anonymous_lambda\\anonymous_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418FFDBB-F780-45BA-80FC-B426DAE95DA5}|Anonymous_Lambda\\Anonymous_Lambda.csproj|solutionrelative:anonymous_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418FFDBB-F780-45BA-80FC-B426DAE95DA5}|Anonymous_Lambda\\Anonymous_Lambda.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\tuesday11\\anonymous_lambda\\anonymous_lambda\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418FFDBB-F780-45BA-80FC-B426DAE95DA5}|Anonymous_Lambda\\Anonymous_Lambda.csproj|solutionrelative:anonymous_lambda\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paging.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Tuesday11\\Anonymous_Lambda\\Anonymous_Lambda\\Paging.cs",
+              "RelativeDocumentMoniker": "Anonymous_Lambda\\Paging.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Tuesday11\\Anonymous_Lambda\\Anonymous_Lambda\\Paging.cs",
+              "RelativeToolTip": "Anonymous_Lambda\\Paging.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:39:12.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -28,7 +53,7 @@
               "RelativeDocumentMoniker": "Anonymous_Lambda\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Tuesday11\\Anonymous_Lambda\\Anonymous_Lambda\\Program.cs",
               "RelativeToolTip": "Anonymous_Lambda\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwCgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T11:49:12.64Z",
               "EditorCaption": ""

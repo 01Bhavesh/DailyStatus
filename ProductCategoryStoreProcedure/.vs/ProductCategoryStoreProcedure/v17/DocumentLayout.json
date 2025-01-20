@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250120124343_InitialDataUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120124343_InitialDataUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:43:43.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250120124227_InitialDataUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:42:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250120124106_InitialDataUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:41:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250120122410_Initialupdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120122410_Initialupdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:24:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:17:44.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T12:11:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:11:22.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Category.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:07:32.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:02:15.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

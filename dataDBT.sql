@@ -658,6 +658,7 @@ select * from v1;
 
 select namefirst from student where id in (select * from v1);
 
+--Create view
 create view std_view as
 select namefirst, namelast 
 from student;
@@ -710,7 +711,10 @@ password varchar(25)
 
 --using store procedure insert data into login table
 drop procedure if exists AddUser
-create procedure AddUser @id int, @name varchar(30), @password varchar(25)
+create procedure AddUser 
+@id int, 
+@name varchar(30), 
+@password varchar(25)
 as
 	begin
 	insert into login (id,name,password) values(@id,@name, @password);
@@ -829,8 +833,8 @@ exec called_fun
 --function with select queries
 select * from student_qualifications;
 drop function max_marks;
-create function max_marks()
-@name varchar(20),
+create function max_marks
+(@name varchar(20))
 returns int
 as
 	begin
@@ -840,5 +844,19 @@ as
 	where name = @name;
 	return @val; 
 end
-select dbo.max_marks()
 
+select dbo.max_marks('be');
+--Pass id to the function (named sumMarks) and calculate the sum of marks.(Use: student_qualification table)
+select * from student_qualifications;
+drop function sumMarks;
+create function sumMarks(@Id int)
+returns int
+as
+	begin
+	declare @sum int
+	select @sum = sum(cast(marks as int))
+	from student_qualifications
+	where  studentid = @id and  (name in ('10','12','be'));
+	return @sum;
+end
+select dbo.sumMarks(1)

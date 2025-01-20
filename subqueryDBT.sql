@@ -61,3 +61,4 @@ where studentID =
 (select id from student where namefirst = 'ulka')
 and name = 'be') and name = 'be');
 
+create database xyz;
