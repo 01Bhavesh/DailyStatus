@@ -1,0 +1,28 @@
+﻿@model ProductCategoryStoreProcedure.Models.Product
+
+
+<h1>ProductById</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Category
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.ProductName</td>
+            <td>@ViewBag.categoryname </td>
+            </tr>
+    </tbody>
+</table>
+<div >
+
+    <a asp-action="Update" asp-route-id="@Model?.ProductId">Update</a> |
+    <a asp-action="GetAllProduct">Back to List</a>
+</div>

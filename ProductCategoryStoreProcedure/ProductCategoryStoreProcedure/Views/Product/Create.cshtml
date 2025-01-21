@@ -1,0 +1,69 @@
+﻿@model ProductCategoryStoreProcedure.Models.Product
+
+@{
+	ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-group">
+				<label asp-for="ProductName" class="control-label"></label>
+				<input asp-for="ProductName" class="form-control" />
+				<span asp-validation-for="ProductName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="CategoryId" class="control-label"></label>
+				<select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryList">
+					<option value="">--select category--</option>
+				</select>
+				<span asp-validation-for="CategoryId" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+@* <div class="row"> *@
+@* 	<div class="col-md-4"> *@
+@* 		<form asp-action="Create"> *@
+@* 			<div asp-validation-summary="ModelOnly" class="text-danger"> *@
+@* 				<div class="form-group"> *@
+@* 					<label asp-for="ProductName" class="control-label"></label> *@
+@* 					<input asp-for="ProductName" class="form-control" /> *@
+@* 					<span asp-validation-for="ProductName" class="text-danger"></span> *@
+
+@* 				</div> *@
+@* 				<div class="form-group"> *@
+@* 					<label asp-for="CategoryId" class="control-label"></label> *@
+@* 					<select asp-for="CategoryId" class="form-control" asp-item="ViewBag.CategoryList"> *@
+@* 						<option value="">--select category--</option> *@
+@* 					</select> *@
+@* 					<span asp-validation-for="CategoryId" class="text-danger"></span> *@
+@* 				</div> *@
+@* 				<div class="row"> *@
+@* 					<div class="col-6"> *@
+@* 						<button class="btn btn-primary form-control">Create</button> *@
+@* 					</div> *@
+@* 					<div class="col-6"> *@
+@* 						<a asp-controller="Product" asp-action="GetAllProduct" class="btn btn-secondary form-control">back to list</a> *@
+@* 					</div> *@
+@* 				</div> *@
+@* 			</div> *@
+@* 		</form> *@
+@* 	</div> *@
+@* </div> *@

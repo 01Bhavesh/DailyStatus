@@ -1,0 +1,51 @@
+﻿@model List<Product>
+@if (TempData["Success"] != null)
+{
+    <h2>@TempData["Success"]</h2>
+}
+<div class="row">
+    <div class="col-6">
+        <h2>Product List</h2>
+    </div>
+    <div class="col-6">
+        <a asp-action="Create" class="btn btn-primary">
+            Create Product
+        </a>
+    </div>
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.ProductName</td>
+                <td>@obj.Category?.CategoryName</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-controller="Product" asp-action="Update" asp-route-Id="@obj.ProductId" class="btn btn-outline-primary btn-sm">
+                            Update
+                        </a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-Id="@obj.ProductId" class="btn btn-outline-danger btn-sm">
+                             Delete
+                        </a>
+                        <a asp-controller="Product" asp-action="ProductById" asp-route-Id="@obj.ProductId" class="btn btn-outline-info btn-sm">
+                        Detail
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"></partial>
+    }
+}

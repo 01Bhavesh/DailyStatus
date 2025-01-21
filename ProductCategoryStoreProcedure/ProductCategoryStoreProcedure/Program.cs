@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<DbCategory>(c => c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IProductItemById, ProductItemById>();
+builder.Services.AddScoped<ICategoryStoreProcedure, CategoryStoreProcedure>();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

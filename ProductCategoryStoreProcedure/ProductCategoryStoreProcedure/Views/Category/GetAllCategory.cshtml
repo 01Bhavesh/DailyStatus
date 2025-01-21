@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ProductCategoryStoreProcedure.Models.Category>
+
+@{
+    ViewData["Title"] = "GetAllCategory";
+}
+
+<h1>GetAllCategory</h1>
+@if (TempData["Success"] != null)
+{
+    <h2>@TempData["Success"]</h2>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                <a asp-action="Update" asp-route-id="@item.CategoryId">Update</a> |
+
+                <a asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
