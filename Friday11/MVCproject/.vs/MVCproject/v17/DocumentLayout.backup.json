@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF39A4E6-E96B-4A10-8A69-86899F10831A}|project.Models\\project.Models.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\project.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF39A4E6-E96B-4A10-8A69-86899F10831A}|project.Models\\project.Models.csproj|solutionrelative:project.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D494D50-4C6B-4BD0-8DE6-7DE689CF9CE7}|Project.Dataaccess\\Project.Dataaccess.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\project.dataaccess\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D494D50-4C6B-4BD0-8DE6-7DE689CF9CE7}|Project.Dataaccess\\Project.Dataaccess.csproj|solutionrelative:project.dataaccess\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE815ED7-3966-407F-9EC6-E68FE4C84C7A}|MVCproject\\MVCproject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\mvcproject\\mvcproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\project.Models\\Category.cs",
               "RelativeDocumentMoniker": "project.Models\\Category.cs",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "project.Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T09:00:31.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T09:00:31.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -111,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
@@ -147,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MVCproject\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -159,15 +158,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Program.cs",
               "RelativeDocumentMoniker": "MVCproject\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\MVCproject\\Program.cs",
               "RelativeToolTip": "MVCproject\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T09:51:16.631Z"
+              "WhenOpened": "2025-01-11T09:51:16.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -195,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\Project.Dataaccess\\Repository\\ProductRepo.cs",
               "RelativeDocumentMoniker": "Project.Dataaccess\\Repository\\ProductRepo.cs",
@@ -231,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\MVCproject\\project.Models\\Product.cs",
               "RelativeDocumentMoniker": "project.Models\\Product.cs",

@@ -3,100 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\categorystoreprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\categorystoreprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\productitembyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\productitembyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\iproductitembyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\iproductitembyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\icategorystoreprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\icategorystoreprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\category\\getallcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\category\\getallcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\server\\dbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\productcategorystoreprocedure\\productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0475504-3BAB-4B0A-9B1F-6108C50D5FD7}|ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure.csproj|solutionrelative:productcategorystoreprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,201 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICategoryStoreProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\ICategoryStoreProcedure.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\ICategoryStoreProcedure.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\ICategoryStoreProcedure.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\ICategoryStoreProcedure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:29:37.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryStoreProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\CategoryStoreProcedure.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\CategoryStoreProcedure.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\CategoryStoreProcedure.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\CategoryStoreProcedure.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:28:04.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProductItemById.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\IProductItemById.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\IProductItemById.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\IProductItemById.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\IProductItemById.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:39:59.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductById.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\ProductById.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Product\\ProductById.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\ProductById.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Product\\ProductById.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T10:42:38.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductItemById.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\ProductItemById.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\ProductItemById.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\ProductItemById.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\ProductItemById.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:35:24.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250121091058_UpdateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250121091058_UpdateDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T09:10:58.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T08:29:29.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T07:23:13.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T07:21:12.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetAllProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\GetAllProduct.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Product\\GetAllProduct.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Product\\GetAllProduct.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Product\\GetAllProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T06:07:23.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T05:27:56.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T05:22:19.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T05:20:11.599Z",
+              "WhenOpened": "2025-01-22T07:09:39.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T05:17:54.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetAllCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\GetAllCategory.cshtml",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Category\\GetAllCategory.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\GetAllCategory.cshtml",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Category\\GetAllCategory.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T05:03:27.066Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:46:31.129Z",
               "EditorCaption": ""
             },
             {
@@ -323,109 +102,126 @@
               "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ProductCategoryStoreProcedure\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:36:21.41Z",
+              "WhenOpened": "2025-01-22T06:40:45.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAwEgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:59:18.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20250120124227_InitialDataUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120124227_InitialDataUpdate.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:42:28.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250120124106_InitialDataUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250120124106_InitialDataUpdate.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:41:06.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DbCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:17:44.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T12:11:25.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:11:22.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Category.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:07:32.182Z",
+              "WhenOpened": "2025-01-22T06:40:38.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\Product.cs",
-              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAAWAAAAAAAAAA==",
+              "Title": "20250122063848_AddLoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Migrations\\20250122063848_AddLoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:02:15.632Z",
+              "WhenOpened": "2025-01-22T06:38:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T06:33:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Server\\DbCategory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:08:44.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T06:06:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:08:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Models\\User.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:23:44.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\appsettings.json",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T04:22:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategoryStoreProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\ProductCategoryStoreProcedure\\ProductCategoryStoreProcedure\\Program.cs",
+              "RelativeToolTip": "ProductCategoryStoreProcedure\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:22:55.114Z",
               "EditorCaption": ""
             }
           ]

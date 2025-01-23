@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProductCategoryStoreProcedure.Models;
 using ProductCategoryStoreProcedure.Server;
@@ -15,10 +16,11 @@ namespace ProductCategoryStoreProcedure.Controllers
             _db = db;
             _cat = cat;
         }
-   
+        //[Route("/Categories")]
+        [Authorize]
         public async Task<IActionResult> GetAllCategory()
         {
-            //ICollection<Category> lst = await _db                             //using Linq query
+            //ICollection<Category> lst = await _db                             //using lambda expression
             //                                    .Categories
             //                                    .OrderBy(c => c.CategoryId)
             //                                    .ToListAsync();
@@ -26,7 +28,7 @@ namespace ProductCategoryStoreProcedure.Controllers
 
             return View(lst);
         }
- 
+        //[Route("/Create")]
         public IActionResult Create()
         {
             return View();
