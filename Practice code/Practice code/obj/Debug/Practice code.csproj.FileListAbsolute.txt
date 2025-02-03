@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\bin\Debug\Practice code.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\bin\Debug\Practice code.exe
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\bin\Debug\Practice code.pdb
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\obj\Debug\Practice code.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\obj\Debug\Practice code.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\obj\Debug\Practice code.exe
+C:\Users\Nimap\source\repos\DailyStatus\Practice code\Practice code\obj\Debug\Practice code.pdb

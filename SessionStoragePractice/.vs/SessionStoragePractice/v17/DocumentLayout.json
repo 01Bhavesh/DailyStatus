@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\models\\dbusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\models\\dbusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\views\\user\\getalluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\views\\user\\getalluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\sessionstoragepractice\\sessionstoragepractice\\migrations\\20250124041057_initaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4485B928-574A-4483-86AD-76D278A06818}|SessionStoragePractice\\SessionStoragePractice.csproj|solutionrelative:sessionstoragepractice\\migrations\\20250124041057_initaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SessionStoragePractice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T05:59:37.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SessionStoragePractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T04:47:33.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "SessionStoragePractice\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T10:58:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\Login.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:57:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "SessionStoragePractice\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:31:20.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\GetAllUser.cshtml",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Views\\User\\GetAllUser.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Views\\User\\GetAllUser.cshtml",
+              "RelativeToolTip": "SessionStoragePractice\\Views\\User\\GetAllUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:27:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:12:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250124041057_InitailData.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Migrations\\20250124041057_InitailData.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Migrations\\20250124041057_InitailData.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Migrations\\20250124041057_InitailData.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Migrations\\20250124041057_InitailData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:10:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\DbUserContext.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Models\\DbUserContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\DbUserContext.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Models\\DbUserContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:06:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Program.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Program.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:05:51.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\appsettings.json",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\appsettings.json",
+              "RelativeToolTip": "SessionStoragePractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T04:01:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SessionStoragePractice\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\SessionStoragePractice\\SessionStoragePractice\\Models\\User.cs",
+              "RelativeToolTip": "SessionStoragePractice\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:55:10.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
