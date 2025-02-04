@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|solutionrelative:entityframworkcode\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DADA6FA6-6BA1-4812-82A3-2854D98C5DCE}|EntityFramworkCode\\EntityFramworkCode.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\monday11\\entityframworkcode\\entityframworkcode\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,12 +121,8 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
@@ -134,12 +130,11 @@
               "RelativeToolTip": "EntityFramworkCode\\ServiceImplementation\\ProductService.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T12:53:20.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:53:20.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Program.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Program.cs",
@@ -187,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Controllers\\CategoryController.cs",
@@ -211,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Models\\Product.cs",
@@ -219,20 +214,20 @@
               "RelativeToolTip": "EntityFramworkCode\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:31:17.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:31:17.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GetProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Product\\GetProduct.cshtml",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Views\\Product\\GetProduct.cshtml",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Views\\Product\\GetProduct.cshtml",
               "RelativeToolTip": "EntityFramworkCode\\Views\\Product\\GetProduct.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwB4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T06:42:34.496Z"
+              "WhenOpened": "2025-01-02T06:42:34.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -344,13 +339,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EntityFramworkCode\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Monday11\\EntityFramworkCode\\EntityFramworkCode\\Models\\Category.cs",
               "RelativeToolTip": "EntityFramworkCode\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T10:33:36.372Z",
               "EditorCaption": ""

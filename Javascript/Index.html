@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>
+calculator
+</title>
+</head>
+<body>
+	Enter number1:<input type = "number" value = "0" id = "num1" /><br><br>
+	Enter number2:<input type = "number" value = "0" id = "num2" /><br><br>
+	Opeations<select id = "sel" onchange = "myCal()">
+	<option>op</option>
+	<option>+</option>
+	<option>-</option>
+	<option>*</option>
+	<option>/</option>
+	</select>
+	
+	<p>Operation result is <span id = "s">  </span><p>
+</body>
+<script>
+function myCal()
+{
+	let x = parseInt(document.getElementById("num1").value)
+	let y = parseInt(document.getElementById("num2").value)
+	
+	let a = document.getElementById("sel").value
+	
+	let result;
+	
+	switch(a)
+	{
+		case "+":
+		result = x+y;
+		break;
+		case "-":
+		result = x-y;
+		break;
+		case "*":
+		result = x*y;
+		break;
+		case "/":
+		result = x/y;
+		break;
+		
+	}
+	document.getElementById("s").innerHTML = `${x} ${a} ${y} = ${result}`
+}
+</script>
+</html>

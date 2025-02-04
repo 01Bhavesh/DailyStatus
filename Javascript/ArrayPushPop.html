@@ -1,0 +1,26 @@
+    <html>
+    <head><title>Array</title></head>
+    <body>
+        Enter number:<input type="number" value="0" id="num" onchange="fun1()"/><br>
+        <button onclick="fun2()">Pop element</button>
+        <p>Final array: <span id="arr1"> </span></p>
+    </body>
+    <script>
+        var arr = [];
+
+        function fun1() {
+            let x = parseInt(document.getElementById("num").value);
+            arr.push(x);
+            updateArrayDisplay(); 
+        }
+
+        function fun2() {
+            arr.pop();
+            updateArrayDisplay(); 
+        }
+
+        function updateArrayDisplay() {
+            document.getElementById("arr1").innerHTML = `${arr}`; 
+        }
+    </script>
+</html>
