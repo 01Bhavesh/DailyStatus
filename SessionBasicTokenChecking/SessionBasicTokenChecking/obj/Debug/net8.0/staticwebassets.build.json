@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VWJR2hOk330gRcJcTNFYQ+ZeYUD0czWA7c6V382wyB4=",
+  "Source": "SessionBasicTokenChecking",
+  "BasePath": "_content/SessionBasicTokenChecking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

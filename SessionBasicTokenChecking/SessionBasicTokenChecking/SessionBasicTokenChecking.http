@@ -1,0 +1,6 @@
+@SessionBasicTokenChecking_HostAddress = http://localhost:5101
+
+GET {{SessionBasicTokenChecking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
