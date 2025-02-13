@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\bin\Debug\PracticeLogicalCode.exe.config
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\bin\Debug\PracticeLogicalCode.exe
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\bin\Debug\PracticeLogicalCode.pdb
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\obj\Debug\PracticeLogicalCode.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\obj\Debug\PracticeLogicalCode.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\obj\Debug\PracticeLogicalCode.exe
+C:\Users\Nimap\source\repos\DailyStatus\PracticeLogicalCode\PracticeLogicalCode\obj\Debug\PracticeLogicalCode.pdb

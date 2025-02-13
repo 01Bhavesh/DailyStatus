@@ -12,13 +12,35 @@
         <table id="demo">
             <thead>
                 <tr>
-                    <th></th>
-                    <th></th>
+                    <th>Bookid</th>
+                    <th>Name</th>
                 </tr>
                 </thead>
         </table>
         <script type="text/javascript">
-        
+        $(document).ready(function(){
+            $('#hit').click(function(){
+                $.get('https://localhost:7235/Book',function(response){
+                    let table = $('<tbody></tbody>')
+                    response.forEach(e =>{
+                        let data = $('<tr></tr>')
+                        let bookId = $('<td></td>')
+                        bookId.text(e.bookId)
+                        data.append(bookId)
+
+                        let bookName = $('<td></td>')
+                        bookName.text(e.bookName)
+                        data.append(bookName)
+                        
+                        table.append(data);
+
+                    });
+
+                    $('#demo').append(table)
+                    let mainTable = new DataTable('#demo');
+                } )
+        })
+        })
         </script>
 
     </body>

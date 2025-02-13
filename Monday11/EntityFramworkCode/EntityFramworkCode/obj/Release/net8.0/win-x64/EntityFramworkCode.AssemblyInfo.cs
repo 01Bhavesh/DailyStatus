@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFramworkCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d30095b8eb4dc2edb3c32fd73b0a35283a8d69d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3abd52076474ad19550d9994ce54a412b5b18e38")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFramworkCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFramworkCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

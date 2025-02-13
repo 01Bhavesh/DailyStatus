@@ -40,6 +40,27 @@ namespace EntityFramworkCode.Migrations
                     b.ToTable("categories");
                 });
 
+            modelBuilder.Entity("EntityFramworkCode.Models.DTO.LoginUser", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("LoginUser");
+                });
+
             modelBuilder.Entity("EntityFramworkCode.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -62,6 +83,31 @@ namespace EntityFramworkCode.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("products");
+                });
+
+            modelBuilder.Entity("EntityFramworkCode.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("users");
                 });
 
             modelBuilder.Entity("EntityFramworkCode.Models.Product", b =>

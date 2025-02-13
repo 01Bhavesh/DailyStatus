@@ -1,10 +1,12 @@
-﻿using System.Collections;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebProject.Model;
 
 namespace WebProject.Controllers
 {
+
+    [ApiController]
+    [Route("[controller]")]
     public class BookController : Controller
     {
         private readonly DbCotextApp _db;
@@ -13,53 +15,37 @@ namespace WebProject.Controllers
             _db = db;
         }
         [HttpGet]
-        public async Task<IActionResult> GetAllBook()
+        public async Task<List<Book>> GetAllBook()
         {
             var lst = await _db.Books.ToListAsync();
-            return View(lst);
+            return lst;
         }
 
-        [HttpGet]
-        public IActionResult AddBook()
-        {
-            return View();
-        }
+        [Route("Add")]
         [HttpPost]
-        public async Task<IActionResult> AddBook(Book book)
+        public IActionResult AddBook(Book book)
         {
-            await _db.Books.AddAsync(book);
+            _db.Books.Add(book);
             _db.SaveChanges();
-            return RedirectToAction("GetAllBook");
+            return Ok("Added successfully");
         }
 
 
-        [HttpGet]
-        public async Task<IActionResult> UpdateBook(int id)
-        {
-            var book = await _db.Books.FirstOrDefaultAsync(p => p.BookId == id);
-
-            return View(book);
-        }
+        [Route("update")]
         [HttpPost]
         public IActionResult UpdateBook(Book book)
         {
             _db.Books.Update(book);
             _db.SaveChanges();
-            return RedirectToAction("GetAllBook");
+            return Ok("Update successfully");
         }
-        [HttpGet]
-        public async Task<IActionResult> DeleteBook(int id)
-        {
-            var book = await _db.Books.FirstOrDefaultAsync(p => p.BookId == id);
-
-            return View(book);
-        }
+        [Route("delete")]
         [HttpPost]
         public IActionResult DeleteBook(Book book)
         {
             _db.Books.Remove(book);
             _db.SaveChanges();
-            return RedirectToAction("GetAllBook");
+            return Ok("Deleted successfully");
         }
 
     }

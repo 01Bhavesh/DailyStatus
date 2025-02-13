@@ -13,7 +13,7 @@ namespace ViewExercise.Controllers
             var customer = new  List<Customer>
                 {
                 new Customer { MovieId = 1 , CustomerName = "Rahul"},
-                new Customer { MovieId = 1 , CustomerName = "Deepak"}
+                new Customer { MovieId = 2 , CustomerName = "Deepak"}
             };
             var ViewModel = new ListOfCustomer
             { Movie = movie, Customers =  customer };
@@ -24,11 +24,11 @@ namespace ViewExercise.Controllers
             var customer = new List<Customer>
                 {
                 new Customer { MovieId = 1 , CustomerName = "Rahul"},
-                new Customer { MovieId = 1 , CustomerName = "Deepak"}
+                new Customer { MovieId = 2 , CustomerName = "Deepak"}
             };
-            var cust = customer.FirstOrDefault(customer => customer.Id == id+1);
-            ViewBag.data = cust;
-            Console.WriteLine(cust.CustomerName);
+            //var cust = customer.FirstOrDefault(customer => customer.MovieId == id+1);
+            string msg = "Hello world";
+            ViewBag.data = msg;
             return View();
         }
     }

@@ -1,10 +1,13 @@
-﻿using DbFirstApproachProject.Models;
+﻿using Azure;
+using DbFirstApproachProject.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Net;
 using System.Numerics;
 using System.Reflection;
 using System.Runtime.Intrinsics.X86;
 using System.Text.RegularExpressions;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace DbFirstApproachProject.Controllers
 {
@@ -140,19 +143,139 @@ namespace DbFirstApproachProject.Controllers
             //inner join course_batches cb
             //on cb.ID = bs.batchID
             //where cb.[name] = 'Batch1';
-            var data = (from s in _dataContext.Students 
-                        join bs in _dataContext.BatchStudents
-                        on s.Id equals bs.StudentId 
-                        join cb in _dataContext.CourseBatches
-                        on bs.BatchId equals cb.Id
-                        where cb.Name == "Batch1"
+            //var data = (from s in _dataContext.Students 
+            //            join bs in _dataContext.BatchStudents
+            //            on s.Id equals bs.StudentId 
+            //            join cb in _dataContext.CourseBatches
+            //            on bs.BatchId equals cb.Id
+            //            where cb.Name == "Batch1"
+            //            select new { 
+            //                s.Namefirst,
+            //                s.Namelast,
+            //                s.Dob
+            //            });
+
+
+            //Display module names for “PG - DAC” course.
+            //select * from modules
+            //select *from course
+            //select *from course_modules
+
+            //select m.name from modules m join course_modules cm
+            //on m.ID = cm.moduleID
+            //join course c
+            //on cm.courseID = c.ID
+            //where c.name = 'PG-DAC';
+            //var data = (from m in _dataContext.Modules
+            //            join cm in _dataContext.CourseModules
+            //            on m.Id equals cm.ModuleId
+            //            join c in  _dataContext.Courses
+            //            on cm.CourseId equals c.Id
+            //            where c.Name == "PG-DAC"
+            //            select new { 
+            //            m.Name
+            //            });
+
+            //Display namefirst, namelast, and batch name for all students.
+            //SELECT * from student;
+            //select * from batch_students
+            //select *from course_batches
+            //select s.namefirst, s.namelast, cb.[name]
+            //from student s join batch_students bs
+            //on s.ID = bs.studentID
+            //join course_batches cb
+            //on bs.batchID = cb.ID
+            //var data = (from s in _dataContext.Students
+            //            join bs in _dataContext.BatchStudents
+            //            on s.Id equals bs.StudentId
+            //            join cb in _dataContext.CourseBatches
+            //            on bs.BatchId equals cb.Id
+            //            select new { 
+            //            s.Namefirst,
+            //            s.Namelast,
+            //            cb.Name
+            //            });
+
+            //Display(namefirst, namelast, phone number, and emailid) whose student ID is 13.
+            //select * from student_phone;
+            //select DISTINCT s.namefirst, s.namelast, sp.number , s.emailid
+            //from student s join student_phone sp
+            //on s.ID = sp.studentID
+            //where s.id = 13
+
+            //var data = (from s in _dataContext.Students
+            //            join sp in _dataContext.StudentPhones
+            //            on s.Id equals sp.StudentId
+            //            where s.Id == 13
+            //            select new { 
+            //            s.Namefirst,
+            //            s.Namelast,
+            //            sp.Number
+            //}).Distinct();
+
+            //Display(namefirst and count the total number of phones a student is having) for all student.
+            //select s.namefirst, count(sp.number)
+            //from student s join student_phone sp
+            //on s.ID = sp.studentID
+            //group by s.namefirst
+            //var data = (from s in _dataContext.Students
+            //            join sp in _dataContext.StudentPhones
+            //            on s.Id equals sp.StudentId
+            //            group s by s.Namefirst into sep
+            //            select new { 
+            //                name = sep.Key,
+            //            count = sep.Count()});
+
+
+            //Get student’s(namefirst, namelast, DOB, address, name, college, university, marks, and year).
+            //select s.namefirst , s.namelast , s.dob , 
+            //sa.[address] , 
+            //sq.[name] , sq.college , sq.university , sq.marks , sq.[year]
+            //from student s join student_address sa
+            //on s.ID = sa.studentID
+            //join student_qualifications sq
+            //on s.ID = sq.studentID
+            //var data = (from s in _dataContext.Students
+            //            join sa in _dataContext.StudentAddresses
+            //            on s.Id equals sa.StudentId
+            //            join sq in _dataContext.StudentQualifications
+            //            on s.Id equals sq.StudentId
+            //            select new { 
+            //                s.Namefirst,
+            //                s.Namelast,
+            //                s.Dob,
+            //                sa.Address,
+            //                sq.Name,
+            //                sq.College,
+            //                sq.University,
+            //                sq.Marks,
+            //                sq.Year
+            //            });
+
+
+            //Get(namefirst, namelast, emailID, phone number, and address) whose faculty name is ‘ketan’.
+            //select f.namefirst, f.namelast, f.emailid , fp.number, fa.[address]
+            //from faculty f inner
+            //join faculty_phone fp
+            //on f.ID = fp.facultyID
+            //inner
+            //join faculty_address fa
+            //on f.ID = fa.facultyID
+            //where f.namefirst = 'ketan'
+
+            var data = (from f in _dataContext.Faculties
+                        join fp in _dataContext.FacultyPhones
+                        on f.Id equals fp.FacultyId
+                        join fa in _dataContext.FacultyAddresses
+                        on f.Id equals fa.FacultyId
+                        where f.Namefirst == "ketan"
                         select new { 
-                            s.Namefirst,
-                            s.Namelast,
-                            s.Dob
+                        f.Namefirst,
+                        f.Namelast,
+                        f.EmailId,
+                        fp.Number,
+                        fa.Address
                         });
-
-
             return Ok(data);
         }
     }

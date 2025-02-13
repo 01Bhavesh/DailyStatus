@@ -4,6 +4,8 @@ using WebProject.Model;
 
 namespace WebProject.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class AuthorController : Controller
     {
         private readonly DbCotextApp _db;
@@ -12,17 +14,13 @@ namespace WebProject.Controllers
             _db = db;
         }
         [HttpGet]
-        public async Task<IActionResult> GetAllAuthor()
+        public async Task<List<Author>> GetAllAuthor()
         {
             var lst = await _db.Authors.ToListAsync();
-            return View(lst);
+            return lst;
         }
 
-        [HttpGet]
-        public IActionResult AdAauthor()
-        {
-            return View();
-        }
+        [Route("Add")]
         [HttpPost]
         public async Task<IActionResult> AddAuthor(Author author)
         {
@@ -30,35 +28,21 @@ namespace WebProject.Controllers
             _db.SaveChanges();
             return RedirectToAction("GetAllAuthor");
         }
-
-
-        [HttpGet]
-        public async Task<IActionResult> UpdateAuthor(int id)
-        {
-            var author = await _db.Authors.FirstOrDefaultAsync(p => p.AuthorId == id);
-
-            return View(author);
-        }
+        [Route("update")]
         [HttpPost]
         public IActionResult UpdateAuthor(Author author)
         {
             _db.Authors.Update(author);
             _db.SaveChanges();
-            return RedirectToAction("GetAllAuthor");
+            return Ok("Update successfully");
         }
-        [HttpGet]
-        public async Task<IActionResult> DeleteAuthor(int id)
-        {
-            var author = await _db.Authors.FirstOrDefaultAsync(p => p.AuthorId == id);
-
-            return View(author);
-        }
+        [Route("delete")]
         [HttpPost]
         public IActionResult DeleteAauthor(Author author)
         {
             _db.Authors.Remove(author);
             _db.SaveChanges();
-            return RedirectToAction("GetAllAuthor");
+            return Ok("delete successfully");
         }
     }
 }

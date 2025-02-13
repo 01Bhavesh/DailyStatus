@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\movie\\ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\movie\\ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,36 +47,8 @@
       "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\movie\\ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\movie\\ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8364AC02-90F0-494C-86AC-A4A2D971BB12}|ViewExercise\\ViewExercise.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\friday11\\viewexercise\\viewexercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,15 +74,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ViewExercise\\Views\\_ViewStart.cshtml",
@@ -82,64 +94,23 @@
               "RelativeToolTip": "ViewExercise\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T11:44:24.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T11:44:24.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T11:41:36.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Movie\\Details.cshtml",
               "RelativeDocumentMoniker": "ViewExercise\\Views\\Movie\\Details.cshtml",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Movie\\Details.cshtml",
               "RelativeToolTip": "ViewExercise\\Views\\Movie\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T10:46:09.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ViewExercise\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ViewExercise\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T10:36:22.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:46:09.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ViewExercise\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ViewExercise\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T10:23:14.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ViewExercise\\appsettings.Development.json",
@@ -147,12 +118,11 @@
               "RelativeToolTip": "ViewExercise\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T10:22:24.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:22:24.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\appsettings.json",
               "RelativeDocumentMoniker": "ViewExercise\\appsettings.json",
@@ -160,20 +130,32 @@
               "RelativeToolTip": "ViewExercise\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T10:21:52.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:21:52.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Program.cs",
               "RelativeDocumentMoniker": "ViewExercise\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Program.cs",
               "RelativeToolTip": "ViewExercise\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:04:52.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "ViewExercise\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:30:08.401Z",
               "EditorCaption": ""
             },
             {
@@ -186,51 +168,11 @@
               "RelativeToolTip": "ViewExercise\\Views\\Movie\\UI.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T06:53:59.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:53:59.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "ViewExercise\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "ViewExercise\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:30:08.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ListOfCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewData\\ListOfCustomer.cs",
-              "RelativeDocumentMoniker": "ViewExercise\\ViewData\\ListOfCustomer.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewData\\ListOfCustomer.cs",
-              "RelativeToolTip": "ViewExercise\\ViewData\\ListOfCustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:25:48.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "ViewExercise\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Models\\Movie.cs",
-              "RelativeToolTip": "ViewExercise\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:22:17.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ViewExercise\\Models\\Customer.cs",
@@ -238,21 +180,103 @@
               "RelativeToolTip": "ViewExercise\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:20:28.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:20:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Models\\Movie.cs",
+              "RelativeToolTip": "ViewExercise\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:22:17.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T07:33:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T08:31:21.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ViewExercise",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ViewExercise\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ViewExercise\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T10:23:14.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T10:36:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T11:41:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListOfCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewData\\ListOfCustomer.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\ViewData\\ListOfCustomer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewData\\ListOfCustomer.cs",
+              "RelativeToolTip": "ViewExercise\\ViewData\\ListOfCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:25:48.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewExercise.csproj",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewExercise.csproj",
               "RelativeDocumentMoniker": "ViewExercise\\ViewExercise.csproj",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\Friday11\\ViewExercise\\ViewExercise\\ViewExercise.csproj",
               "RelativeToolTip": "ViewExercise\\ViewExercise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-03T06:24:34.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:24:34.395Z"
             }
           ]
         }
