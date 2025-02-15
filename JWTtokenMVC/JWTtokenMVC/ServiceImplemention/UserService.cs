@@ -22,7 +22,7 @@ namespace JWTtokenMVC.ServiceImplemention
             _db.SaveChanges();
         }
 
-        public List<User> GetUser()
+        public List<User> GetAllUser()
         {
             return _db.users.ToList();
         }

@@ -1,9 +1,11 @@
 ﻿using JWTtokenMVC.IServiceImplementation;
 using JWTtokenMVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JWTtokenMVC.Controllers
 {
+    [Authorize(Roles = "user")]
     public class UserController : Controller
     {
         private readonly IUserService _iuserservice;
@@ -12,11 +14,11 @@ namespace JWTtokenMVC.Controllers
             _iuserservice = iuserservice;
         }
 
-        [Route("/Add")]
-        public IActionResult AddUser(User user)
+        [Route("/GetAllUser")]
+        public IActionResult GetAllUser()
         {
-            _iuserservice.AddUser(user);
-            return RedirectToAction("Login");
+            List<User> lst = _iuserservice.GetAllUser();
+            return View(lst);
         }
 
 

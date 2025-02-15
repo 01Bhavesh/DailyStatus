@@ -29,7 +29,7 @@ namespace JWTtokenMVC.ServiceImplemention
             {
             new Claim(ClaimTypes.Name, username),
             new Claim(ClaimTypes.Role, role)
-        };
+            };
 
             var token = new JwtSecurityToken(
                 _issuer,

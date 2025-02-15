@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\jwttokenmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\jwttokenmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\serviceimplemention\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\serviceimplemention\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\serviceimplemention\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\serviceimplemention\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\serviceimplemention\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +31,20 @@
       "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\iserviceimplementation\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\server\\dbcontextuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\server\\dbcontextuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\jwttokenmvc\\jwttokenmvc\\migrations\\20250213110620_initaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB419A-40C3-435F-A7B0-C97441DEC6FC}|JWTtokenMVC\\JWTtokenMVC.csproj|solutionrelative:jwttokenmvc\\migrations\\20250213110620_initaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,30 +69,53 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\ServiceImplemention\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "JWTtokenMVC\\ServiceImplemention\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\ServiceImplemention\\JwtMiddleware.cs",
+              "RelativeToolTip": "JWTtokenMVC\\ServiceImplemention\\JwtMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:52:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTtokenMVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTtokenMVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:55:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\ServiceImplemention\\JwtService.cs",
               "RelativeDocumentMoniker": "JWTtokenMVC\\ServiceImplemention\\JwtService.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\ServiceImplemention\\JwtService.cs",
               "RelativeToolTip": "JWTtokenMVC\\ServiceImplemention\\JwtService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwBAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T12:10:55.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "JWTtokenMVC\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Properties\\launchSettings.json",
-              "RelativeToolTip": "JWTtokenMVC\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-13T12:05:39.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T12:10:55.804Z"
             },
             {
               "$type": "Document",
@@ -98,10 +125,9 @@
               "RelativeDocumentMoniker": "JWTtokenMVC\\ServiceImplemention\\UserService.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\ServiceImplemention\\UserService.cs",
               "RelativeToolTip": "JWTtokenMVC\\ServiceImplemention\\UserService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:22:51.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T11:22:51.383Z"
             },
             {
               "$type": "Document",
@@ -111,48 +137,13 @@
               "RelativeDocumentMoniker": "JWTtokenMVC\\IServiceImplementation\\IUserService.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\IServiceImplementation\\IUserService.cs",
               "RelativeToolTip": "JWTtokenMVC\\IServiceImplementation\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:19:38.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T11:19:38.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JWTtokenMVC",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\JWTtokenMVC.csproj",
-              "RelativeDocumentMoniker": "JWTtokenMVC\\JWTtokenMVC.csproj",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\JWTtokenMVC.csproj",
-              "RelativeToolTip": "JWTtokenMVC\\JWTtokenMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-13T11:07:52.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250213110620_initaldata.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
-              "RelativeDocumentMoniker": "JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
-              "RelativeToolTip": "JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:06:21.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\appsettings.json",
               "RelativeDocumentMoniker": "JWTtokenMVC\\appsettings.json",
@@ -160,12 +151,11 @@
               "RelativeToolTip": "JWTtokenMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-13T10:51:58.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:51:58.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DbContextUser.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Server\\DbContextUser.cs",
               "RelativeDocumentMoniker": "JWTtokenMVC\\Server\\DbContextUser.cs",
@@ -173,34 +163,56 @@
               "RelativeToolTip": "JWTtokenMVC\\Server\\DbContextUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:48:25.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:48:25.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Program.cs",
               "RelativeDocumentMoniker": "JWTtokenMVC\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Program.cs",
               "RelativeToolTip": "JWTtokenMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:39:20.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:39:20.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "JWTtokenMVC\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Controllers\\UserController.cs",
               "RelativeToolTip": "JWTtokenMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T10:13:48.422Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250213110620_initaldata.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
+              "RelativeDocumentMoniker": "JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
+              "RelativeToolTip": "JWTtokenMVC\\Migrations\\20250213110620_initaldata.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:06:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWTtokenMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWTtokenMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T12:05:39.472Z"
             },
             {
               "$type": "Document",
@@ -212,12 +224,11 @@
               "RelativeToolTip": "JWTtokenMVC\\Models\\DTO\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:08:45.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:08:45.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\JWTtokenMVC\\JWTtokenMVC\\Models\\User.cs",
               "RelativeDocumentMoniker": "JWTtokenMVC\\Models\\User.cs",
@@ -225,8 +236,7 @@
               "RelativeToolTip": "JWTtokenMVC\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:04:11.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:04:11.662Z"
             },
             {
               "$type": "Document",
@@ -238,8 +248,7 @@
               "RelativeToolTip": "JWTtokenMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:02:07.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T10:02:07.49Z"
             }
           ]
         }

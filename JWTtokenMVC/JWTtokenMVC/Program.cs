@@ -1,4 +1,5 @@
 using JWTtokenMVC.Server;
+using JWTtokenMVC.ServiceImplemention;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,8 @@ builder.Services.AddDbContext<DbContextUser>(o =>
 o.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 var app = builder.Build();
+
+app.UseMiddleware<JwtMiddleware>();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

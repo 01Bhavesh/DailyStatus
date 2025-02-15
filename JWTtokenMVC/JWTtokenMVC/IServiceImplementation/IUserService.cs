@@ -7,6 +7,6 @@ namespace JWTtokenMVC.IServiceImplementation
     {
         public void AddUser(User user);
 
-        public List<User> GetUser();
+        public List<User> GetAllUser();
     }
 }
