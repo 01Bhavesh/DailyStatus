@@ -33,7 +33,9 @@ namespace New_CRUDTask.ServiceImplementation
         public async Task<(List<User>, int totalcount)> GetUser(int page, int pageSize)
         {
             int totalcount = _db.Users.Count();
-            return (await _db.Users.ToListAsync(), totalcount);
+            return (await _db.Users
+                .Where(u => u.IsActive == true)
+                .ToListAsync(), totalcount);
         }
 
         public User? GetUserById(int? id)
@@ -47,5 +49,6 @@ namespace New_CRUDTask.ServiceImplementation
             _db.Users.Update(user);
             _db.SaveChanges();
         }
+
     }
 }
