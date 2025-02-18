@@ -9,12 +9,12 @@ namespace New_CRUDTask.Model
         [Key]
         public int OrderId { get; set; }
         public int? UserId { get; set; }
-        [JsonIgnore]
+        //[JsonIgnore]
         //many to one 
-        public User? Users { get; set; }
-        [JsonIgnore]
+        public virtual User? Users { get; set; }
+        //[JsonIgnore]
         //many to many
-        public ICollection<ProductOrder>? ProductOrders { get; set; }
+        public virtual ICollection<ProductOrder>? ProductOrders { get; set; }
 
     }
 }

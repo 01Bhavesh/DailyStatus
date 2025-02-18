@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 using New_CRUDTask.Model.DTO;
 using New_CRUDTask.ServiceImplementation;
+using System;
 
 namespace New_CRUDTask.Controllers
 {
@@ -89,7 +91,22 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public IActionResult Error()
         {
-            throw new Exception("error");
+            try
+            {
+                int b = 10;
+                int c = 0;
+                int a = b / c;
+            }
+            catch (Exception ex)
+            {
+                var taskException = new TaskException("An error occurred..", ex);
+                return BadRequest(new
+                {
+                    Message = taskException.Message?? "An unknown error occurred.",
+                    InnerException = taskException.InnerException?.Message
+                });
+            }
+            return Ok("Operation successful");
         }
 
     }

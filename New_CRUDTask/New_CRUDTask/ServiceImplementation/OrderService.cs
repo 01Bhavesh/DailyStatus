@@ -10,11 +10,10 @@ namespace New_CRUDTask.ServiceImplementation
     public class OrderService : IOrderService
     {
         private readonly DbContextServer _db;
-        private static double _price;
         public OrderService(DbContextServer db)
         {
             _db = db;
-            _price = 0;
+
         }
         public async Task<bool> CreateOrder(OrderCreatedDTO order)
         {

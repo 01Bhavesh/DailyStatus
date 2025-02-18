@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\serviceimplementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\serviceimplementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\dto\\productorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\dto\\productorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\dto\\ordercreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\dto\\ordercreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\productorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\productorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\new_crudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\new_crudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\migrations\\20250217040049_new_taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\migrations\\20250217040049_new_taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +66,130 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\ProductOrder.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\ProductOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:55:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:53:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreatedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:53:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:53:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:52:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Order.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:52:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\OrderService.cs",
+              "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\OrderService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAawFkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:51:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "New_CRUDTask\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:51:59.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
+              "RelativeToolTip": "New_CRUDTask\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:50:40.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "New_CRUDTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\New_CRUDTask.csproj",
+              "RelativeDocumentMoniker": "New_CRUDTask\\New_CRUDTask.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\New_CRUDTask.csproj",
+              "RelativeToolTip": "New_CRUDTask\\New_CRUDTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T11:49:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250217040049_new_taskData.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
@@ -34,8 +197,7 @@
               "RelativeToolTip": "New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:00:49.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T04:00:49.891Z"
             }
           ]
         }

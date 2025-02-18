@@ -576,6 +576,18 @@
         }
       }
     },
+    "/api/User/error": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -705,6 +717,11 @@
           "quntity": {
             "type": "integer",
             "format": "int32"
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
           }
         },
         "additionalProperties": false

@@ -256,6 +256,16 @@
   },
   {
     "ContainingType": "New_CRUDTask.Controllers.UserController",
+    "Method": "Error",
+    "RelativePath": "api/User/error",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "New_CRUDTask.Controllers.UserController",
     "Method": "GetAllUser",
     "RelativePath": "api/User/getAll",
     "HttpMethod": "GET",
