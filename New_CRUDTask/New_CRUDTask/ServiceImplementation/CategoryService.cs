@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 using New_CRUDTask.Server;
@@ -12,15 +13,14 @@ namespace New_CRUDTask.ServiceImplementation
         {
             _db = db;
         }
-        public bool AddCategory(Category category)
+        public void AddCategory(Category category)
         {
             if (_db.Categories.Any(c => c.Name == category.Name))
             {
-                return false; ;
+                throw new TaskException("Category is already exists.");
             }
             _db.Categories.Add(category);
             _db.SaveChanges();
-            return true;
         }
 
         public void DeleteCategory(int id)
@@ -48,8 +48,27 @@ namespace New_CRUDTask.ServiceImplementation
             return c;
         }
 
+        public void ReNewExitingCategory(Category category)
+        {
+            if (category == null)
+            {
+                throw new TaskException("Category cannot be null.");
+            }
+            Category? c = _db.Categories.FirstOrDefault(c => c.CategoryId == category.CategoryId);
+            if (c == null)
+            {
+                throw new TaskException("Category cannot be null.");
+            }
+            UpdateCategory(category);
+
+        }
+
         public void UpdateCategory(Category Category)
         {
+            if (Category.IsActive != true)
+            {
+                throw new TaskException("Category is already exists.");
+            }
             _db.Categories.Update(Category);
             _db.SaveChanges();
         }

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 using New_CRUDTask.Server;
@@ -13,20 +14,23 @@ namespace New_CRUDTask.ServiceImplementation
         {
             _db = db;
         }
-        public bool AddProduct(Product product)
+        public void AddProduct(Product product)
         {
             if (_db.Products.Any(p => p.ProductName == product.ProductName))
             {
-                return false; ;
+                throw new TaskException("Product is already exists.");
             }
             _db.Products.Add(product);
             _db.SaveChanges();
-            return true;
         }
 
         public void DeleteProduct(int id)
         {
             Product? p = GetProductById(id);
+            if (p == null)
+            {
+                throw new TaskException("Product not exists.");
+            }
             p.IsActive = false;
             _db.SaveChanges();
         }

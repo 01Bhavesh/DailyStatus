@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 using New_CRUDTask.Model.DTO;
@@ -15,12 +16,12 @@ namespace New_CRUDTask.ServiceImplementation
             _db = db;
 
         }
-        public async Task<bool> CreateOrder(OrderCreatedDTO order)
+        public async void CreateOrder(OrderCreatedDTO order)
         {
             User? user = await _db.Users.FirstOrDefaultAsync(u => u.UserId == order.UserId);
             if(user.IsActive != true)
             {
-                return false;
+                throw new TaskException("User is invalid.");
             }
 
             var productorder = new List<ProductOrder>();
@@ -29,7 +30,8 @@ namespace New_CRUDTask.ServiceImplementation
                 var product = await _db.Products.FindAsync(orders.ProductId);
                 if (product.IsActive != true)
                 {
-                    return false;
+                    throw new TaskException("Product is invalid.");
+
                 }
                 productorder.Add(new ProductOrder
                 { 
@@ -45,7 +47,6 @@ namespace New_CRUDTask.ServiceImplementation
             };
             _db.Orders.Add(newOrder);
             await _db.SaveChangesAsync();
-            return true;
         }
 
         public async Task<bool> DeleteOrder(int id)
@@ -97,7 +98,7 @@ namespace New_CRUDTask.ServiceImplementation
                     ProductId = po.ProductId,
                     ProductName = po.Products.ProductName,
                     Quntity = po.Quntity,
-                    price = po.Products.Pirce
+                    //price = po.Products.Pirce
                 }).ToList(),
                 Price = order.ProductOrders.Sum(po => po.Products.Pirce * po.Quntity)
             }).ToList();

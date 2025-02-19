@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 using New_CRUDTask.ServiceImplementation;
@@ -19,12 +20,18 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public ActionResult CreateProduct(Category category)
         {
-            bool flag = _categoryService.AddCategory(category);
-            if (!flag)
-            {
-                return BadRequest(new { message = "Category is exist" });
-            }
+            try { 
+            _categoryService.AddCategory(category);
             return Ok("Category Added sccessfully..");
+            }
+            catch (TaskException ex)
+            {
+                return BadRequest(new { message = ex.Message});
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An unexpected error occurred.", error = ex.Message });
+            }
         }
         [Route("getAll")]
         [HttpGet]
@@ -37,8 +44,18 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public ActionResult UpdateProduct(Category category)
         {
+            try { 
             _categoryService.UpdateCategory(category);
             return Ok("Updated successfully..");
+            }
+            catch (TaskException ex)
+            {
+                return BadRequest(new { message = ex.Message});
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An unexpected error occurred.", error = ex.Message });
+            }
         }
         [Route("delete")]
         [HttpGet]

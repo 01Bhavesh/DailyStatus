@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
@@ -11,6 +12,7 @@ namespace New_CRUDTask.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
@@ -26,14 +28,21 @@ namespace New_CRUDTask.Controllers
 
         [Route("add")]
         [HttpPost]
+        [AllowAnonymous]
         public ActionResult CreateUser(User user)
         {
-            bool flag = _userService.AddUser(user);
-            if (!flag)
-            {
-                return BadRequest(new { message = "User Email is exist" });
-            }
-            return Ok("User Added sccessfully..");
+            try { 
+                    _userService.AddUser(user);
+                    return Ok(new { message = "User is added successfully." });
+                }
+            catch (TaskException ex)
+                {
+                    return BadRequest(new { message = ex.Message });
+                }
+            catch (Exception ex)
+                {
+                    return StatusCode(500, new { message = "Unexpected error...", error = ex.Message });
+                };
         }
         [Route("getAll")]
         [HttpGet]
@@ -46,15 +55,36 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public ActionResult UpdateUser(User user)
         {
-            _userService.UpdateUser(user);
-            return Ok("Updated successfully..");
+            try
+            {
+                _userService.UpdateUser(user);
+                return Ok("Updated successfully..");
+            }
+            catch (TaskException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "Unexpected error...", error = ex.Message });
+            };
         }
         [Route("delete")]
         [HttpGet]
         public ActionResult DeleteUser(int id)
         {
-            _userService.DeleteUser(id);
-            return Ok("Deleted successfully..");
+            try {
+                    _userService.DeleteUser(id);
+                    return Ok("Deleted successfully..");
+                }
+            catch (TaskException ex)
+                {
+                    return BadRequest(new { message = ex.Message});
+                }
+            catch (Exception ex)
+                {
+                    return StatusCode(500, new { message = "Unexpected error...", error = ex.Message });
+                };
         }
         [Route("products")]
         [HttpGet]
@@ -67,13 +97,19 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public async Task<IActionResult> PlaceOrder(OrderCreatedDTO orderDto)
         {
-            bool flag = await _orderService.CreateOrder(orderDto);
-            if (!flag)
+            try
             {
-                return BadRequest(new { message = "Failed to place order.." });
+                _orderService.CreateOrder(orderDto);
+                return Ok(new { message = "Order placed successfully." });
             }
-
-            return Ok(new {message = "Order placed successfully." });
+            catch (TaskException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "Unexpected error...", error = ex.Message });
+            };
         }
         [Route("getuserorder")]
         [HttpGet]

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using New_CRUDTask.ExceptionHandling;
 using New_CRUDTask.IServiceImplementation;
 using New_CRUDTask.Model;
 
@@ -18,13 +19,20 @@ namespace New_CRUDTask.Controllers
         [HttpPost]
         public ActionResult CreateProduct(Product product)
         {
-            bool flag = _productService.AddProduct(product); ;
-            if (!flag)
+            try
             {
-                return BadRequest(new { message = "Product is exist" });
+                _productService.AddProduct(product); ;
+                return Ok(new { message = "Product is added successfully." });
             }
-            return Ok("Product Added sccessfully..");
-        }
+            catch (TaskException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An unexpected error occurred.", error = ex.Message });
+            }
+            }
         [Route("getAll")]
         [HttpGet]
         public async Task<ActionResult> GetAllProduct(int page = 1, int pagesize = 10)
@@ -38,13 +46,24 @@ namespace New_CRUDTask.Controllers
         {
             _productService.UpdateProduct(product);
             return Ok("Updated successfully..");
+
         }
         [Route("delete")]
         [HttpGet]
         public ActionResult DeleteProduct(int id) 
         {
+            try { 
             _productService.DeleteProduct(id);
             return Ok("Deleted successfully..");
+                }
+            catch (TaskException ex)
+                {
+                    return BadRequest(new { message = ex.Message});
+                }
+            catch (Exception ex)
+                {
+                    return StatusCode(500, new { message = "Unexpected error...", error = ex.Message });
+                };
         }
     }
 }

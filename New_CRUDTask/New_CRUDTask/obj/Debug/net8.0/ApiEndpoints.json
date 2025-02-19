@@ -69,16 +69,16 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "New_CRUDTask.Controllers.OrderController",
-    "Method": "CreateOrder",
-    "RelativePath": "api/Order/add",
+    "ContainingType": "New_CRUDTask.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "order",
-        "Type": "New_CRUDTask.Model.DTO.OrderCreatedDTO",
+        "Name": "login",
+        "Type": "New_CRUDTask.Model.DTO.LoginDTO",
         "IsRequired": true
       }
     ],

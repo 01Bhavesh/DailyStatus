@@ -6,8 +6,9 @@ namespace New_CRUDTask.IServiceImplementation
     {
         Task<(List<Category>, int totalcount)> GetCategory(int page, int pageSize);
         Category? GetCategoryById(int? id);
-        bool AddCategory(Category category);
+        void AddCategory(Category category);
         void UpdateCategory(Category category);
         void DeleteCategory(int id);
+        void ReNewExitingCategory(Category category);
     }
 }
