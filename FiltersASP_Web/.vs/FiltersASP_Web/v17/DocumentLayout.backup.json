@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\serviceimplementation\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\serviceimplementation\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Migrations\\20250221090958_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FiltersASP_Web\\Migrations\\20250221090958_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\serviceimplementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\serviceimplementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\iserviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\iserviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\filtersasp_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\filtersasp_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\filtersasp_web\\filtersasp_web\\model\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D53D6-BD53-4FB8-B783-2651DC681BFD}|FiltersASP_Web\\FiltersASP_Web.csproj|solutionrelative:filtersasp_web\\model\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250221090958_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Migrations\\20250221090958_initial.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\Migrations\\20250221090958_initial.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Migrations\\20250221090958_initial.cs",
+              "RelativeToolTip": "FiltersASP_Web\\Migrations\\20250221090958_initial.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:09:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\ServiceImplementation\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\ServiceImplementation\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\ServiceImplementation\\LogActionFilter.cs",
+              "RelativeToolTip": "FiltersASP_Web\\ServiceImplementation\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:00:23.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\IServiceImplementation\\IProductService.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\IServiceImplementation\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\IServiceImplementation\\IProductService.cs",
+              "RelativeToolTip": "FiltersASP_Web\\IServiceImplementation\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:38:26.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\ServiceImplementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\ServiceImplementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\ServiceImplementation\\ProductService.cs",
+              "RelativeToolTip": "FiltersASP_Web\\ServiceImplementation\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:30:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FiltersASP_Web",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\FiltersASP_Web.csproj",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\FiltersASP_Web.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\FiltersASP_Web.csproj",
+              "RelativeToolTip": "FiltersASP_Web\\FiltersASP_Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T08:28:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FiltersASP_Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:26:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Model\\DbProduct.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\Model\\DbProduct.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Model\\DbProduct.cs",
+              "RelativeToolTip": "FiltersASP_Web\\Model\\DbProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:24:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Program.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Program.cs",
+              "RelativeToolTip": "FiltersASP_Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:23:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "FiltersASP_Web\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\FiltersASP_Web\\FiltersASP_Web\\Model\\Product.cs",
+              "RelativeToolTip": "FiltersASP_Web\\Model\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:12:08.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
