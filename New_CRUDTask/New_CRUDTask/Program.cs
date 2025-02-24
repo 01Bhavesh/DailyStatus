@@ -7,6 +7,7 @@ using New_CRUDTask.Server;
 using New_CRUDTask.ServiceImplementation;
 using Microsoft.OpenApi.Models;
 using Microsoft.Extensions.Options;
+using New_CRUDTask.ExceptionHandling;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -64,6 +65,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 
