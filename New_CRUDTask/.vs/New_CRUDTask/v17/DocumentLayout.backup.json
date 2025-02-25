@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\exceptionhandling\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\exceptionhandling\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\serviceimplementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\serviceimplementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\exceptionhandling\\erroeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\exceptionhandling\\erroeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\serviceimplementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\serviceimplementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\exceptionhandling\\taskexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\exceptionhandling\\taskexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\exceptionhandling\\erroeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\exceptionhandling\\erroeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\new_crudtask\\new_crudtask\\model\\dto\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,26 +142,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
-              "RelativeDocumentMoniker": "New_CRUDTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
-              "RelativeToolTip": "New_CRUDTask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T04:35:44.99Z",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "New_CRUDTask\\ExceptionHandling\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:42:43.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\User.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\User.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\User.cs",
               "RelativeToolTip": "New_CRUDTask\\Model\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T10:34:19.33Z",
               "EditorCaption": ""
@@ -165,32 +169,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
-              "RelativeToolTip": "New_CRUDTask\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwFIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:50:40.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
-              "RelativeToolTip": "New_CRUDTask\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAlwEcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:14:59.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\CategoryController.cs",
@@ -203,33 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\ProductOrder.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
-              "RelativeToolTip": "New_CRUDTask\\Model\\ProductOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:55:29.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
-              "RelativeToolTip": "New_CRUDTask\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:52:28.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Order.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Order.cs",
@@ -237,12 +189,11 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\Order.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:52:25.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:52:25.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\UserService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\UserService.cs",
@@ -250,8 +201,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\UserService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:05:21.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:05:21.997Z"
             },
             {
               "$type": "Document",
@@ -261,7 +211,7 @@
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\ProductController.cs",
               "RelativeToolTip": "New_CRUDTask\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:12:39.418Z",
               "EditorCaption": ""
@@ -274,14 +224,14 @@
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\OrderController.cs",
               "RelativeToolTip": "New_CRUDTask\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwC4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwC4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T11:51:59.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Category.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Category.cs",
@@ -289,25 +239,74 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T09:40:16.582Z",
+              "WhenOpened": "2025-02-22T09:40:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
+              "RelativeToolTip": "New_CRUDTask\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:50:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
+              "RelativeToolTip": "New_CRUDTask\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADgv0MAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:14:59.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "New_CRUDTask\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:04.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TaskException.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\TaskException.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\TaskException.cs",
-              "RelativeToolTip": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAMAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:29:07.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:52:28.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
+              "Title": "ProductOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Model\\ProductOrder.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
+              "RelativeToolTip": "New_CRUDTask\\Model\\ProductOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:55:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ErroeException.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\ErroeException.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\ErroeException.cs",
@@ -320,7 +319,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
+              "RelativeDocumentMoniker": "New_CRUDTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
+              "RelativeToolTip": "New_CRUDTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T04:35:44.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskException.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\TaskException.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\TaskException.cs",
+              "RelativeToolTip": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:29:07.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\CategoryService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\CategoryService.cs",
@@ -332,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\LoginDTO.cs",
@@ -344,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\UserDetailsDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\UserDetailsDTO.cs",
@@ -356,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "JWTtoken.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\JWTtoken.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\JWTtoken.cs",
@@ -368,19 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "New_CRUDTask\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAwEQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:09:04.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\OrderService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\OrderService.cs",
@@ -392,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\ProductService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\ProductService.cs",
@@ -404,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IUserService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IUserService.cs",
@@ -416,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IOrderService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IOrderService.cs",
@@ -428,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IProductService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IProductService.cs",
@@ -440,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "OrderCreatedDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
@@ -452,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ProductOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
@@ -464,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
@@ -476,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "New_CRUDTask.csproj",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\New_CRUDTask.csproj",
               "RelativeDocumentMoniker": "New_CRUDTask\\New_CRUDTask.csproj",
@@ -488,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "20250217040049_new_taskData.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
