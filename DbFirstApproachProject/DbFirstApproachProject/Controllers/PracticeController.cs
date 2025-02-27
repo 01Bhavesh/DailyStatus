@@ -2,11 +2,13 @@
 using DbFirstApproachProject.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.Design;
 using System.Net;
 using System.Numerics;
 using System.Reflection;
 using System.Runtime.Intrinsics.X86;
 using System.Text.RegularExpressions;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace DbFirstApproachProject.Controllers
@@ -370,13 +372,23 @@ namespace DbFirstApproachProject.Controllers
             //on s.ID = sq.studentID
             //where sq.[name] = 'BE'
 
-            var data = (from s in _dataContext.Students
-                        join sq in _dataContext.StudentQualifications
-                        on s.Id equals sq.StudentId
-                        where sq.Name == "BE"
-                        select new { 
-                        Name = s.Namefirst,
-                        sq.University});
+            //var data = (from s in _dataContext.Students
+            //            join sq in _dataContext.StudentQualifications
+            //            on s.Id equals sq.StudentId
+            //            where sq.Name == "BE"
+            //            select new { 
+            //            Name = s.Namefirst,
+            //            sq.University});
+
+            //Display all distinct course detail, where module for every course is designed.
+            //select distinct c.* from course c
+            //join course_modules cm
+            //on c.ID = cm.courseID
+
+            var data = (from c in _dataContext.Courses
+                        join cm in _dataContext.CourseModules
+                        on c.Id equals cm.CourseId
+                       );
 
             return Ok(data);
 
