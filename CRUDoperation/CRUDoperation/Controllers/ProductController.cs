@@ -1,5 +1,6 @@
 ﻿using CRUDoperation.IServiceImplementation;
 using CRUDoperation.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace CRUDoperation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductController : ControllerBase
     {
         private readonly IProduct _service;
@@ -16,16 +18,16 @@ namespace CRUDoperation.Controllers
         }
         [Route("GetAll")]
         [HttpGet]
-        public ActionResult GetAllProduct() 
+        public async Task<ActionResult> GetAllProduct() 
         {
-            Task<IList<Product>> products = _service.GetAllProduct();
+            var products = _service.GetAllProduct();
             return Ok(products);
         }
         [Route("GetById")]
         [HttpGet]
-        public ActionResult GetProductById(int id) 
+        public async Task<ActionResult> GetProductById(int id) 
         {
-            Task<Product> product = _service.GetProductById(id);
+            var product = _service.GetProductById(id);
             return Ok(product);
         }
         [Route("Create")]

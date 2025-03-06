@@ -166,7 +166,7 @@
         }
       }
     },
-    "/api/User/GetById": {
+    "/api/User/GetById/{id}": {
       "get": {
         "tags": [
           "User"
@@ -174,7 +174,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -220,7 +221,7 @@
       }
     },
     "/api/User/Update": {
-      "post": {
+      "put": {
         "tags": [
           "User"
         ],
@@ -250,15 +251,16 @@
         }
       }
     },
-    "/api/User/Delete": {
-      "get": {
+    "/api/User/Delete/{id}": {
+      "delete": {
         "tags": [
           "User"
         ],
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"

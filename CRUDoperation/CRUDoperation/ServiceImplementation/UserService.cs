@@ -8,53 +8,57 @@ namespace CRUDoperation.ServiceImplementation
     public class UserService : IUserService
     {
         private readonly DbProduct _db;
+
         public UserService(DbProduct db)
         {
             _db = db;
         }
+
         public async Task<bool> CreateUser(User user)
         {
-            if (_db.Users.Any(p => p.Email == user.Email))
+            if (await _db.Users.AnyAsync(p => p.Email == user.Email))
             {
                 return false;
             }
-            _db.Users.Add(user);
-            _db.SaveChanges();
+            await _db.Users.AddAsync(user);
+            await _db.SaveChangesAsync();
             return true;
         }
 
-        public async Task<bool> DeleteUser(int Id)
+        public async Task<bool> DeleteUser(int Id) // Change to DisableUser if needed
         {
-            User? user = await _db.Users.FirstOrDefaultAsync(p => p.Id == Id);
+            var user = await _db.Users.FindAsync(Id);
             if (user == null)
             {
                 return false;
             }
-            user.IsActive = false;
-            _db.SaveChanges();
+            _db.Users.Remove(user);
+            await _db.SaveChangesAsync();
             return true;
         }
 
         public async Task<IList<User>> GetAllUser()
         {
-            IList<User> lst = await _db.Users.Where(u => u.IsActive).ToListAsync();
-            return lst;
+            return await _db.Users.Where(u => u.IsActive).ToListAsync();
         }
 
-        public async Task<User> GetUserById(int? id)
+        public async Task<User?> GetUserById(int? id)
         {
-            User? user = await _db.Users.FirstOrDefaultAsync(p => p.Id == id);
-            return user;
+            return await _db.Users.FindAsync(id);
         }
 
         public async Task<bool> UpdateUser(User user)
         {
-            User? u = await _db.Users.FirstOrDefaultAsync(u => u.Id == user.Id);
-            if (u == null)
+            var existingUser = await _db.Users.FindAsync(user.Id);
+            if (existingUser == null)
             {
                 return false;
             }
-            _db.Users.Update(user);
+
+            existingUser.Name = user.Name;
+            existingUser.Email = user.Email;
+            existingUser.IsActive = user.IsActive;
+
             await _db.SaveChangesAsync();
             return true;
         }

@@ -79,4 +79,7 @@ as
 	select * from firstCTE;
 
 --Display all distinct course detail, where module for every course is designed. 
+select distinct c.* from course c 
+join course_modules cm
+on c.ID = cm.courseID
 

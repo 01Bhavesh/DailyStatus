@@ -45,7 +45,7 @@ namespace CRUDoperation.ServiceImplementation
 
         public async Task<Product?> GetProductById(int? Id)
         {
-            Product? product = await _db.Products.FirstOrDefaultAsync(p => p.Id == Id);
+            var product = await _db.Products.FirstOrDefaultAsync(p => p.Id == Id);
             return product;
 
         }

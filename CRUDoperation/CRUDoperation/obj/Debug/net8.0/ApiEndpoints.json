@@ -108,15 +108,15 @@
   {
     "ContainingType": "CRUDoperation.Controllers.UserController",
     "Method": "DeleteById",
-    "RelativePath": "api/User/Delete",
-    "HttpMethod": "GET",
+    "RelativePath": "api/User/Delete/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -134,7 +134,7 @@
   {
     "ContainingType": "CRUDoperation.Controllers.UserController",
     "Method": "GetUserById",
-    "RelativePath": "api/User/GetById",
+    "RelativePath": "api/User/GetById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -142,7 +142,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -151,7 +151,7 @@
     "ContainingType": "CRUDoperation.Controllers.UserController",
     "Method": "EditUser",
     "RelativePath": "api/User/Update",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
