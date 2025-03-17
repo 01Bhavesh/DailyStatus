@@ -143,8 +143,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\JWTtoken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:37:48.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:37:48.529Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\UserDetailsDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:35:36.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:35:36.378Z"
             },
             {
               "$type": "Document",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:34:19.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:34:19.33Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:34:00.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:34:00.451Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "New_CRUDTask\\Controllers\\UserController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:50:40.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:50:40.895Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "New_CRUDTask\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:14:59.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:14:59.513Z"
             },
             {
               "$type": "Document",
@@ -221,8 +215,7 @@
               "RelativeToolTip": "New_CRUDTask\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvxYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:12:05.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:12:05.853Z"
             },
             {
               "$type": "Document",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\CategoryService.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAmwEUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:12:13.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:12:13.381Z"
             },
             {
               "$type": "Document",
@@ -247,8 +239,7 @@
               "RelativeToolTip": "New_CRUDTask\\Controllers\\ProductController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:12:39.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:12:39.418Z"
             },
             {
               "$type": "Document",
@@ -260,8 +251,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\OrderService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:51:05.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:51:05.668Z"
             },
             {
               "$type": "Document",
@@ -273,8 +263,7 @@
               "RelativeToolTip": "New_CRUDTask\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAQwC4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:51:59.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:51:59.07Z"
             },
             {
               "$type": "Document",
@@ -286,8 +275,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\ProductService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:14:48.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:14:48.937Z"
             },
             {
               "$type": "Document",
@@ -299,8 +287,7 @@
               "RelativeToolTip": "New_CRUDTask\\ServiceImplementation\\UserService.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAcwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:05:21.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:05:21.997Z"
             },
             {
               "$type": "Document",
@@ -312,8 +299,7 @@
               "RelativeToolTip": "New_CRUDTask\\IServiceImplementation\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:11:43.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:11:43.756Z"
             },
             {
               "$type": "Document",
@@ -325,8 +311,7 @@
               "RelativeToolTip": "New_CRUDTask\\IServiceImplementation\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:16:32.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:16:32.046Z"
             },
             {
               "$type": "Document",
@@ -338,8 +323,7 @@
               "RelativeToolTip": "New_CRUDTask\\IServiceImplementation\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:12:23.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:12:23.453Z"
             },
             {
               "$type": "Document",
@@ -351,8 +335,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\ProductOrder.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:55:29.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:55:29.34Z"
             },
             {
               "$type": "Document",
@@ -364,8 +347,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\Order.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:52:25.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:52:25.942Z"
             },
             {
               "$type": "Document",
@@ -377,8 +359,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:53:03.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:53:03.871Z"
             },
             {
               "$type": "Document",
@@ -390,8 +371,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:53:47.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:53:47.675Z"
             },
             {
               "$type": "Document",
@@ -403,8 +383,7 @@
               "RelativeToolTip": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:29:07.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:29:07.711Z"
             },
             {
               "$type": "Document",
@@ -416,8 +395,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\Product.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:52:28.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:52:28.845Z"
             },
             {
               "$type": "Document",
@@ -429,8 +407,7 @@
               "RelativeToolTip": "New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:53:00.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:53:00.64Z"
             },
             {
               "$type": "Document",
@@ -442,8 +419,7 @@
               "RelativeToolTip": "New_CRUDTask\\ExceptionHandling\\ErroeException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:29:04.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:29:04.707Z"
             },
             {
               "$type": "Document",
@@ -455,8 +431,7 @@
               "RelativeToolTip": "New_CRUDTask\\New_CRUDTask.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T11:49:51.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:49:51.288Z"
             },
             {
               "$type": "Document",
@@ -468,8 +443,7 @@
               "RelativeToolTip": "New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:00:49.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T04:00:49.891Z"
             }
           ]
         }
