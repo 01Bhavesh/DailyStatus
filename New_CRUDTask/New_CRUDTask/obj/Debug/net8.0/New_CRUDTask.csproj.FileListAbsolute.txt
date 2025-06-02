@@ -690,3 +690,4 @@ D:\DailyStatus\New_CRUDTask\New_CRUDTask\obj\Debug\net8.0\New_CRUDTask.pdb
 D:\DailyStatus\New_CRUDTask\New_CRUDTask\obj\Debug\net8.0\New_CRUDTask.genruntimeconfig.cache
 D:\DailyStatus\New_CRUDTask\New_CRUDTask\obj\Debug\net8.0\ref\New_CRUDTask.dll
 D:\DailyStatus\New_CRUDTask\New_CRUDTask\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nimap\source\repos\DailyStatus\New_CRUDTask\New_CRUDTask\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

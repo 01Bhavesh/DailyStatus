@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\DailyStatus\\task_review\\",
   "Documents": [
     {
@@ -36,6 +37,44 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|d:\\dailystatus\\task_review\\task_review\\server\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\migrations\\20250222114911_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\migrations\\20250222114911_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\iserviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\iserviceimplementation\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\task_review.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\task_review.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\server\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
       "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\server\\dbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -49,12 +88,29 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20250222114911_initail.cs",
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Migrations\\20250222114911_initail.cs",
               "RelativeDocumentMoniker": "task_review\\Migrations\\20250222114911_initail.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Migrations\\20250222114911_initail.cs",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250222114911_initail.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Migrations\\20250222114911_initail.cs",
+              "RelativeDocumentMoniker": "task_review\\Migrations\\20250222114911_initail.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Migrations\\20250222114911_initail.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\Migrations\\20250222114911_initail.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +118,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "task_review\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
+=======
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "task_review\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +141,15 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IProductService.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\IServiceImplementation\\IProductService.cs",
               "RelativeDocumentMoniker": "task_review\\IServiceImplementation\\IProductService.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\IServiceImplementation\\IProductService.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\IServiceImplementation\\IProductService.cs",
+              "RelativeDocumentMoniker": "task_review\\IServiceImplementation\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\IServiceImplementation\\IProductService.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\IServiceImplementation\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,6 +157,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
@@ -94,6 +165,15 @@
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
               "RelativeToolTip": "task_review\\Service\\ProductService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAApAAAAAAAAAA==",
+=======
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "task_review\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
+              "RelativeToolTip": "task_review\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T11:22:54.32Z",
               "EditorCaption": ""
@@ -102,9 +182,15 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.json",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\appsettings.json",
               "RelativeDocumentMoniker": "task_review\\appsettings.json",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\appsettings.json",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\appsettings.json",
+              "RelativeDocumentMoniker": "task_review\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\appsettings.json",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -114,9 +200,15 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DbProduct.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Server\\DbProduct.cs",
               "RelativeDocumentMoniker": "task_review\\Server\\DbProduct.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Server\\DbProduct.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Server\\DbProduct.cs",
+              "RelativeDocumentMoniker": "task_review\\Server\\DbProduct.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Server\\DbProduct.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\Server\\DbProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +218,15 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Product.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Model\\Product.cs",
               "RelativeDocumentMoniker": "task_review\\Model\\Product.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Model\\Product.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "task_review\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Model\\Product.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\Model\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +236,15 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "task_review.csproj",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\task_review.csproj",
               "RelativeDocumentMoniker": "task_review\\task_review.csproj",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\task_review.csproj",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\task_review.csproj",
+              "RelativeDocumentMoniker": "task_review\\task_review.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\task_review.csproj",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\task_review.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -150,9 +254,15 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\DailyStatus\\task_review\\task_review\\Program.cs",
               "RelativeDocumentMoniker": "task_review\\Program.cs",
               "ToolTip": "D:\\DailyStatus\\task_review\\task_review\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Program.cs",
+              "RelativeDocumentMoniker": "task_review\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Program.cs",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "RelativeToolTip": "task_review\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

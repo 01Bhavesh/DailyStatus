@@ -32,6 +32,7 @@ namespace Excersise
             }
             else { Console.WriteLine("Enter valid number"); }
 
+
         }
         public static void CheckNumber(int number)
         {

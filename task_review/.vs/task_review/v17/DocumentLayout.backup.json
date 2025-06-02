@@ -3,14 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
       "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
       "AbsoluteMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\task_review\\task_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00617851-4230-4596-B337-55C3D0B763E9}|task_review\\task_review.csproj|solutionrelative:task_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +56,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +84,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "task_review\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Controllers\\ProductController.cs",
               "RelativeToolTip": "task_review\\Controllers\\ProductController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDQAAAAwAAAAAAAAAA==",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T11:39:43.832Z",
               "EditorCaption": ""
@@ -95,13 +117,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 0,
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "task_review\\Service\\ProductService.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\task_review\\task_review\\Service\\ProductService.cs",
               "RelativeToolTip": "task_review\\Service\\ProductService.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCcAAAAbAAAAAAAAAA==",
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T11:22:54.32Z",
               "EditorCaption": ""
@@ -164,7 +194,12 @@
               "RelativeToolTip": "task_review\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-22T11:09:45.157Z"
+=======
+              "WhenOpened": "2025-02-22T11:09:45.157Z",
+              "EditorCaption": ""
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
             }
           ]
         }

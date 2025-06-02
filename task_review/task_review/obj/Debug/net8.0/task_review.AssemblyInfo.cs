@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task_review")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a36b8f3b72ee7d4169172018b20e5a1634e85ce")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd8b7bfbfd7977d15c26c778fb70d0f08c98fe6d")]
+>>>>>>> e46b583ce6ddb406794e709283c0a6dc3d2744db
 [assembly: System.Reflection.AssemblyProductAttribute("task_review")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task_review")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
