@@ -1,0 +1,7 @@
+D:\DailyStatus\LogicAndCode\LogicAndCode\bin\Debug\LogicAndCode.exe.config
+D:\DailyStatus\LogicAndCode\LogicAndCode\bin\Debug\LogicAndCode.exe
+D:\DailyStatus\LogicAndCode\LogicAndCode\bin\Debug\LogicAndCode.pdb
+D:\DailyStatus\LogicAndCode\LogicAndCode\obj\Debug\LogicAndCode.csproj.AssemblyReference.cache
+D:\DailyStatus\LogicAndCode\LogicAndCode\obj\Debug\LogicAndCode.csproj.CoreCompileInputs.cache
+D:\DailyStatus\LogicAndCode\LogicAndCode\obj\Debug\LogicAndCode.exe
+D:\DailyStatus\LogicAndCode\LogicAndCode\obj\Debug\LogicAndCode.pdb

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DailyStatus\\PracticeCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02EDD8F-E08B-4B63-A51C-3F79876172A4}|PracticeCode\\PracticeCode.csproj|d:\\dailystatus\\practicecode\\practicecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A02EDD8F-E08B-4B63-A51C-3F79876172A4}|PracticeCode\\PracticeCode.csproj|solutionrelative:practicecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DailyStatus\\PracticeCode\\PracticeCode\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticeCode\\Form1.cs",
+              "ToolTip": "D:\\DailyStatus\\PracticeCode\\PracticeCode\\Form1.cs [Design]",
+              "RelativeToolTip": "PracticeCode\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:15:20.989Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

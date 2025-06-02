@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FiltersASP_Web.props" />
+</Project>

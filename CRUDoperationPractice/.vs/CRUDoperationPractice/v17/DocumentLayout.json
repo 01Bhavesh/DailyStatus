@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DailyStatus\\CRUDoperationPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\server\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\server\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\crudoperationpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\crudoperationpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|d:\\dailystatus\\crudoperationpractice\\crudoperationpractice\\migrations\\20250321110121_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870DA790-AF79-4A5F-B725-8823E3DEEC61}|CRUDoperationPractice\\CRUDoperationPractice.csproj|solutionrelative:crudoperationpractice\\migrations\\20250321110121_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Service\\IStudentService.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Service\\IStudentService.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:05:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:02:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250321110121_Initail.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Migrations\\20250321110121_Initail.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Migrations\\20250321110121_Initail.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Migrations\\20250321110121_Initail.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Migrations\\20250321110121_Initail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:01:21.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\appsettings.json",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\appsettings.json",
+              "RelativeToolTip": "CRUDoperationPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T10:44:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Program.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Program.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:43:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbData.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Server\\DbData.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Server\\DbData.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Server\\DbData.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Server\\DbData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:38:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Model\\Student.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Model\\Student.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:42:22.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\Service\\StudentService.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\Service\\StudentService.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:10:40.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRUDoperationPractice.csproj",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\CRUDoperationPractice.csproj",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\CRUDoperationPractice.csproj",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\CRUDoperationPractice.csproj",
+              "RelativeToolTip": "CRUDoperationPractice\\CRUDoperationPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T10:42:00.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CRUDoperationPractice\\WeatherForecast.cs",
+              "ToolTip": "D:\\DailyStatus\\CRUDoperationPractice\\CRUDoperationPractice\\WeatherForecast.cs",
+              "RelativeToolTip": "CRUDoperationPractice\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:44:00.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

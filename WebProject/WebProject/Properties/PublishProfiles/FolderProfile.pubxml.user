@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Nimap\Desktop\WebProjectPublic</_PublishTargetUrl>
-    <History>True|2025-02-06T07:13:37.1609836Z||;True|2025-02-06T12:39:41.8929898+05:30||;True|2025-02-06T12:38:04.8585027+05:30||;</History>
+    <_PublishTargetUrl>C:\Publish</_PublishTargetUrl>
+    <History>True|2025-03-17T06:05:44.1457090Z||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

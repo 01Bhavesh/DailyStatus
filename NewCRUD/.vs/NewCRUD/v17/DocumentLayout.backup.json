@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DailyStatus\\NewCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\iservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\iservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\iservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\iservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\newcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\newcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\server\\dbstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\server\\dbstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\migrations\\20250421070849_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\migrations\\20250421070849_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|d:\\dailystatus\\newcrud\\newcrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB8C53C-6CB8-4474-A892-82A42B387532}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\IService\\StudentService.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\IService\\StudentService.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\IService\\StudentService.cs",
+              "RelativeToolTip": "NewCRUD\\IService\\StudentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:33:09.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\IService\\IStudentService.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\IService\\IStudentService.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\IService\\IStudentService.cs",
+              "RelativeToolTip": "NewCRUD\\IService\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:30:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "NewCRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:30:01.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewCRUD",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\NewCRUD.csproj",
+              "RelativeDocumentMoniker": "NewCRUD\\NewCRUD.csproj",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\NewCRUD.csproj*",
+              "RelativeToolTip": "NewCRUD\\NewCRUD.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T07:29:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "NewCRUD\\appsettings.json",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\appsettings.json",
+              "RelativeToolTip": "NewCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T06:57:40.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Program.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Program.cs",
+              "RelativeToolTip": "NewCRUD\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:57:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250421070849_Initial.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Migrations\\20250421070849_Initial.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Migrations\\20250421070849_Initial.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Migrations\\20250421070849_Initial.cs",
+              "RelativeToolTip": "NewCRUD\\Migrations\\20250421070849_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:08:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBStudent.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Server\\DBStudent.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Server\\DBStudent.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Server\\DBStudent.cs",
+              "RelativeToolTip": "NewCRUD\\Server\\DBStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:51:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Model\\Student.cs",
+              "ToolTip": "D:\\DailyStatus\\NewCRUD\\NewCRUD\\Model\\Student.cs",
+              "RelativeToolTip": "NewCRUD\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:33:53.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

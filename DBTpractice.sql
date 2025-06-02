@@ -60,3 +60,31 @@ on f.ID = fa.facultyID
 where f.namefirst = 'ketan'
 
 --Get(course name and batch name)for all courses.
+
+--Display all student and with their address from student and student_address tables.
+select s.namefirst, sa.[address] from 
+student s join student_address sa
+on s.ID = sa.studentID
+
+--Display (namefirst, namelast, emailID, and student_qualification details) from student and student_qualification relations.
+select s.namefirst, sq.* from 
+student s join student_qualifications sq
+on s.id = sq.studentID
+
+--Display (namefirst, namelast, emailID, college, and university) who have studied in 'Yale University'. (Use student, and student_qualification relation)
+select s.namefirst , sq.college , sq.university from
+student s join student_qualifications sq
+on s.ID = sq.studentID
+where sq.university = 'Yale University'
+
+--•	Display how many modules are taught in each course.
+select * from modules
+select * from course_modules
+select * from course
+
+select c.[name] , COUNT(m.[name]) from 
+modules m join course_modules cm
+on m.ID = cm.moduleID
+join course c 
+on cm.courseID = c.ID
+group by c.[name]
