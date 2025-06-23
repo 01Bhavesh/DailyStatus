@@ -10,5 +10,6 @@ namespace ClassData.Server
             
         }
         public DbSet<Student> students { get; set; }
+        public DbSet<Registration> registrations { get; set; }
     }
 }

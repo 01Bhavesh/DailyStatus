@@ -121,7 +121,7 @@
         }
       }
     },
-    "/api/Login/login": {
+    "/api/Login": {
       "post": {
         "tags": [
           "Login"

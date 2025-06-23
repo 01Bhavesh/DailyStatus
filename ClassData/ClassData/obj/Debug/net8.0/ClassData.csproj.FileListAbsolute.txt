@@ -171,3 +171,4 @@ D:\DailyStatus\ClassData\ClassData\obj\Debug\net8.0\refint\ClassData.dll
 D:\DailyStatus\ClassData\ClassData\obj\Debug\net8.0\ClassData.pdb
 D:\DailyStatus\ClassData\ClassData\obj\Debug\net8.0\ClassData.genruntimeconfig.cache
 D:\DailyStatus\ClassData\ClassData\obj\Debug\net8.0\ref\ClassData.dll
+D:\DailyStatus\ClassData\ClassData\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

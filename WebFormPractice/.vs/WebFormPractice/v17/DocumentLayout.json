@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\DailyStatus\\WebFormPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|d:\\dailystatus\\webformpractice\\webformpractice\\tasklist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\tasklist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|d:\\dailystatus\\webformpractice\\webformpractice\\tasklist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\tasklist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|D:\\DailyStatus\\WebFormPractice\\webformpractice\\taskform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\taskform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|d:\\dailystatus\\webformpractice\\webformpractice\\taskform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\taskform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|d:\\dailystatus\\webformpractice\\webformpractice\\taskform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\taskform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|d:\\dailystatus\\webformpractice\\webformpractice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|D:\\DailyStatus\\WebFormPractice\\webformpractice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C76B3703-B2D9-4DFF-9164-A8EB1A4873B9}|WebFormPractice\\WebFormPractice.csproj|solutionrelative:webformpractice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -22,24 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskList.aspx.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskList.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormPractice\\TaskList.aspx.cs",
+              "ToolTip": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskList.aspx.cs",
+              "RelativeToolTip": "WebFormPractice\\TaskList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:21:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TaskList.aspx",
+              "DocumentMoniker": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskList.aspx",
+              "RelativeDocumentMoniker": "WebFormPractice\\TaskList.aspx",
+              "ToolTip": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskList.aspx",
+              "RelativeToolTip": "WebFormPractice\\TaskList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T18:20:51.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TaskForm.aspx.cs",
               "DocumentMoniker": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskForm.aspx.cs",
               "RelativeDocumentMoniker": "WebFormPractice\\TaskForm.aspx.cs",
               "ToolTip": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskForm.aspx.cs",
               "RelativeToolTip": "WebFormPractice\\TaskForm.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:26:10.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TaskForm.aspx",
               "DocumentMoniker": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\TaskForm.aspx",
               "RelativeDocumentMoniker": "WebFormPractice\\TaskForm.aspx",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\DailyStatus\\WebFormPractice\\WebFormPractice\\Web.config",
               "RelativeDocumentMoniker": "WebFormPractice\\Web.config",

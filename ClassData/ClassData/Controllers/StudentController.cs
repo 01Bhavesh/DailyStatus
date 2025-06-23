@@ -1,6 +1,7 @@
 ﻿using ClassData.IServiceImplemetation;
 using ClassData.Model;
 using ClassData.Server;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace ClassData.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class StudentController : ControllerBase
     {
         private readonly IStudent _conn;
