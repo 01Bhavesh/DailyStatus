@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\DailyStatus\\New_CRUDTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\server\\dbcontextserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|solutionrelative:new_crudtask\\server\\dbcontextserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E348531D-4C1F-46DF-A947-ADF854AE9AC5}|New_CRUDTask\\New_CRUDTask.csproj|d:\\dailystatus\\new_crudtask\\new_crudtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,49 +126,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "DbContextServer.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Server\\DbContextServer.cs",
+              "RelativeDocumentMoniker": "New_CRUDTask\\Server\\DbContextServer.cs",
+              "ToolTip": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Server\\DbContextServer.cs",
+              "RelativeToolTip": "New_CRUDTask\\Server\\DbContextServer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:53:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
               "RelativeDocumentMoniker": "New_CRUDTask\\appsettings.json",
               "ToolTip": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\appsettings.json",
               "RelativeToolTip": "New_CRUDTask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-23T05:04:36.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Program.cs",
               "ToolTip": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Program.cs",
               "RelativeToolTip": "New_CRUDTask\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:14:59.513Z"
+              "WhenOpened": "2025-02-18T11:14:59.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\LoginController.cs",
               "RelativeToolTip": "New_CRUDTask\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T11:09:04.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\UserController.cs",
@@ -176,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\OrderController.cs",
@@ -188,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\ProductController.cs",
@@ -200,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\CategoryService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\CategoryService.cs",
@@ -212,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\ProductService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\ProductService.cs",
@@ -224,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JWTtoken.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\JWTtoken.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\JWTtoken.cs",
@@ -236,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\User.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\User.cs",
@@ -248,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\LoginDTO.cs",
@@ -260,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserDetailsDTO.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\UserDetailsDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\UserDetailsDTO.cs",
@@ -272,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Controllers\\CategoryController.cs",
@@ -284,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\OrderService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\OrderService.cs",
@@ -296,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ServiceImplementation\\UserService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ServiceImplementation\\UserService.cs",
@@ -308,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IUserService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IUserService.cs",
@@ -320,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IOrderService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IOrderService.cs",
@@ -332,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\IServiceImplementation\\IProductService.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\IServiceImplementation\\IProductService.cs",
@@ -344,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProductOrder.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\ProductOrder.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\ProductOrder.cs",
@@ -356,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Order.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Order.cs",
@@ -368,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OrderCreatedDTO.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderCreatedDTO.cs",
@@ -380,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ProductOrderDTO.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\ProductOrderDTO.cs",
@@ -392,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "TaskException.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\TaskException.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\TaskException.cs",
@@ -404,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\Product.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\Product.cs",
@@ -416,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Model\\DTO\\OrderDTO.cs",
@@ -428,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ErroeException.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\ExceptionHandling\\ErroeException.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\ExceptionHandling\\ErroeException.cs",
@@ -440,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "New_CRUDTask.csproj",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\New_CRUDTask.csproj",
               "RelativeDocumentMoniker": "New_CRUDTask\\New_CRUDTask.csproj",
@@ -452,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "20250217040049_new_taskData.cs",
               "DocumentMoniker": "D:\\DailyStatus\\New_CRUDTask\\New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
               "RelativeDocumentMoniker": "New_CRUDTask\\Migrations\\20250217040049_new_taskData.cs",
