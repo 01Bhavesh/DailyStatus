@@ -14,12 +14,14 @@ namespace CrudOperationProject.Controllers
         {
             _db = db;
         }
+        [Route("Get")]
         [HttpGet]
         public IActionResult GetAllCategory() 
         {
             var lst = _db.Categories.Where(c => c.isActive).ToList();
             return Ok(lst);
         }
+        [Route("GetById/{Id}")]
         [HttpGet]
         public IActionResult GetCategoryById(int Id)
         {
@@ -30,6 +32,7 @@ namespace CrudOperationProject.Controllers
             }
             return BadRequest();
         }
+        [Route("Create")]
         [HttpPost]
         public IActionResult Create(Category category)
         {
@@ -41,6 +44,7 @@ namespace CrudOperationProject.Controllers
             }
             return BadRequest();
         }
+        [Route("Update")]
         [HttpPost]
         public IActionResult Update(Category category)
         {
@@ -53,6 +57,7 @@ namespace CrudOperationProject.Controllers
             _db.SaveChanges();
             return Ok();
         }
+        [Route("Delete")]
         [HttpGet]
         public IActionResult Delete(int Id)
         {

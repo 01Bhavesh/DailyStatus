@@ -15,6 +15,7 @@ namespace CrudOperationProject.Controllers
         {
             _db = db;
         }
+        [Route("Get")]
         [HttpGet]
         public IActionResult GetAllProduct()
         {
@@ -24,6 +25,7 @@ namespace CrudOperationProject.Controllers
                 .ToList();
             return Ok(lst);
         }
+        [Route("GetById/{Id}")]
         [HttpGet]
         public IActionResult GetProductById(int Id)
         {
@@ -34,6 +36,7 @@ namespace CrudOperationProject.Controllers
             }
             return Ok(p);
         }
+        [Route("Create")]
         [HttpPost]
         public IActionResult Create(Product product)
         {
@@ -46,6 +49,7 @@ namespace CrudOperationProject.Controllers
             }
             return BadRequest();
         }
+        [Route("Update")]
         [HttpPost]
         public IActionResult Update(Product product)
         {
@@ -53,6 +57,7 @@ namespace CrudOperationProject.Controllers
                 _db.SaveChanges();
             return Ok("Product Update successfully");        
         }
+        [Route("Delete")]
         [HttpGet]
         public IActionResult Delete(int Id)
         {

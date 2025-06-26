@@ -1,42 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\",
+  "WorkspaceRootPath": "D:\\DailyStatus\\CrudOperationProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\server\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\server\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\server\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\crudoperationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\crudoperationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|c:\\users\\nimap\\source\\repos\\dailystatus\\crudoperationproject\\crudoperationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Migrations\\20250623104118_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationProject\\Migrations\\20250623104118_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|d:\\dailystatus\\crudoperationproject\\crudoperationproject\\crudoperationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D44A2D1-0EA2-4E38-875D-4F8A8EC36D10}|CrudOperationProject\\CrudOperationProject.csproj|solutionrelative:crudoperationproject\\crudoperationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,54 +62,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250623104118_inital.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Migrations\\20250623104118_inital.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Migrations\\20250623104118_inital.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Migrations\\20250623104118_inital.cs",
+              "RelativeToolTip": "CrudOperationProject\\Migrations\\20250623104118_inital.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:41:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CrudOperationProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:42:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Model\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "CrudOperationProject\\Model\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:37:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOperationProject\\appsettings.json",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\appsettings.json",
+              "RelativeToolTip": "CrudOperationProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T08:19:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CrudOperationProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:22:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CrudOperationProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:52:09.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Program.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Program.cs",
+              "RelativeToolTip": "CrudOperationProject\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:30:53.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\UserController.cs",
               "RelativeToolTip": "CrudOperationProject\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwDQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T08:50:11.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\User.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\User.cs",
               "RelativeDocumentMoniker": "CrudOperationProject\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\User.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\User.cs",
               "RelativeToolTip": "CrudOperationProject\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T08:39:15.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "CrudOperationProject\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Product.cs",
-              "RelativeToolTip": "CrudOperationProject\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DbConn.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Server\\DbConn.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Server\\DbConn.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Server\\DbConn.cs",
+              "RelativeToolTip": "CrudOperationProject\\Server\\DbConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:19:00.425Z",
+              "WhenOpened": "2025-03-10T04:48:17.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "CrudOperationProject.csproj",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\CrudOperationProject.csproj",
+              "RelativeDocumentMoniker": "CrudOperationProject\\CrudOperationProject.csproj",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\CrudOperationProject.csproj",
+              "RelativeToolTip": "CrudOperationProject\\CrudOperationProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T04:50:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Category.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Category.cs",
               "RelativeDocumentMoniker": "CrudOperationProject\\Model\\Category.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Category.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Category.cs",
               "RelativeToolTip": "CrudOperationProject\\Model\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,75 +222,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CrudOperationProject\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwEAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "CrudOperationProject\\Model\\Product.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Model\\Product.cs",
+              "RelativeToolTip": "CrudOperationProject\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T05:22:39.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CrudOperationProject\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CrudOperationProject\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T04:52:09.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrudOperationProject",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\CrudOperationProject.csproj",
-              "RelativeDocumentMoniker": "CrudOperationProject\\CrudOperationProject.csproj",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\CrudOperationProject.csproj*",
-              "RelativeToolTip": "CrudOperationProject\\CrudOperationProject.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T04:50:27.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbConn.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Server\\DbConn.cs",
-              "RelativeDocumentMoniker": "CrudOperationProject\\Server\\DbConn.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Server\\DbConn.cs",
-              "RelativeToolTip": "CrudOperationProject\\Server\\DbConn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T04:48:17.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Program.cs",
-              "RelativeDocumentMoniker": "CrudOperationProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DailyStatus\\CrudOperationProject\\CrudOperationProject\\Program.cs",
-              "RelativeToolTip": "CrudOperationProject\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T04:30:53.841Z",
+              "WhenOpened": "2025-03-10T07:19:00.425Z",
               "EditorCaption": ""
             }
           ]
