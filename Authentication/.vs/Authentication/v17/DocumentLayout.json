@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\DailyStatus\\Authentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\server\\dbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\server\\dbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\model\\logindto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\logindto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DailyStatus\\Authentication\\Authentication\\Migrations\\20250626070234_Initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication\\Migrations\\20250626070234_Initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\serviceimplementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +39,16 @@
       "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\iserviceimplementation\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\server\\dbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\server\\dbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|d:\\dailystatus\\authentication\\authentication\\migrations\\20250626070234_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A97DC-4F6E-4193-A911-E9BE77356FCB}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20250626070234_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Authentication\\Controllers\\LoginController.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Model\\LoginDTO\\Login.cs",
               "RelativeDocumentMoniker": "Authentication\\Model\\LoginDTO\\Login.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "20250626070234_Initail.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Migrations\\20250626070234_Initail.cs",
               "RelativeDocumentMoniker": "Authentication\\Migrations\\20250626070234_Initail.cs",
@@ -101,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Authentication\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\DailyStatus\\Authentication\\Authentication\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T06:53:50.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\ServiceImplementation\\StudentService.cs",
               "RelativeDocumentMoniker": "Authentication\\ServiceImplementation\\StudentService.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\IServiceImplementation\\IStudentService.cs",
               "RelativeDocumentMoniker": "Authentication\\IServiceImplementation\\IStudentService.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Authentication.http",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Authentication.http",
               "RelativeDocumentMoniker": "Authentication\\Authentication.http",
@@ -153,13 +153,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "DbServer.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Server\\DbServer.cs",
               "RelativeDocumentMoniker": "Authentication\\Server\\DbServer.cs",
               "ToolTip": "D:\\DailyStatus\\Authentication\\Authentication\\Server\\DbServer.cs",
               "RelativeToolTip": "Authentication\\Server\\DbServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T05:57:18.6Z",
               "EditorCaption": ""
@@ -172,20 +172,20 @@
               "RelativeDocumentMoniker": "Authentication\\appsettings.json",
               "ToolTip": "D:\\DailyStatus\\Authentication\\Authentication\\appsettings.json",
               "RelativeToolTip": "Authentication\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-26T05:45:05.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Program.cs",
               "RelativeDocumentMoniker": "Authentication\\Program.cs",
               "ToolTip": "D:\\DailyStatus\\Authentication\\Authentication\\Program.cs",
               "RelativeToolTip": "Authentication\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T05:44:59.988Z",
               "EditorCaption": ""
@@ -193,7 +193,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Authentication",
+              "Title": "Authentication.csproj",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Authentication.csproj",
               "RelativeDocumentMoniker": "Authentication\\Authentication.csproj",
               "ToolTip": "D:\\DailyStatus\\Authentication\\Authentication\\Authentication.csproj",
@@ -205,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\DailyStatus\\Authentication\\Authentication\\Model\\Student.cs",
               "RelativeDocumentMoniker": "Authentication\\Model\\Student.cs",

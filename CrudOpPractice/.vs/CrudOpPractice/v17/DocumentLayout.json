@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DailyStatus\\CrudOpPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\userservice\\userimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\userservice\\userimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\iuserservice\\iuserimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\iuserservice\\iuserimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\crudoppractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\crudoppractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\migrations\\20250726183016_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\migrations\\20250726183016_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\connection\\condb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\connection\\condb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|d:\\dailystatus\\crudoppractice\\crudoppractice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466A32A-C355-4FAC-8098-F85942C3291D}|CrudOpPractice\\CrudOpPractice.csproj|solutionrelative:crudoppractice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CrudOpPractice\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:47:22.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserImplementation.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\UserService\\UserImplementation.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\UserService\\UserImplementation.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\UserService\\UserImplementation.cs",
+              "RelativeToolTip": "CrudOpPractice\\UserService\\UserImplementation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:37:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserImplementation.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\IUserService\\IUserImplementation.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\IUserService\\IUserImplementation.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\IUserService\\IUserImplementation.cs",
+              "RelativeToolTip": "CrudOpPractice\\IUserService\\IUserImplementation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:35:25.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudOpPractice",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\CrudOpPractice.csproj",
+              "RelativeDocumentMoniker": "CrudOpPractice\\CrudOpPractice.csproj",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\CrudOpPractice.csproj",
+              "RelativeToolTip": "CrudOpPractice\\CrudOpPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T18:34:14.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250726183016_Initail.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Migrations\\20250726183016_Initail.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\Migrations\\20250726183016_Initail.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Migrations\\20250726183016_Initail.cs",
+              "RelativeToolTip": "CrudOpPractice\\Migrations\\20250726183016_Initail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:30:17.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOpPractice\\appsettings.json",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\appsettings.json",
+              "RelativeToolTip": "CrudOpPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T18:22:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConDB.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Connection\\ConDB.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\Connection\\ConDB.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Connection\\ConDB.cs",
+              "RelativeToolTip": "CrudOpPractice\\Connection\\ConDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:21:14.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\Model\\User.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Model\\User.cs",
+              "RelativeToolTip": "CrudOpPractice\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:09:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOpPractice\\Program.cs",
+              "ToolTip": "D:\\DailyStatus\\CrudOpPractice\\CrudOpPractice\\Program.cs",
+              "RelativeToolTip": "CrudOpPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:07:59.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
